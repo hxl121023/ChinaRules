@@ -22,6 +22,22 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect2.arrs
 
 在 Anywhere 里添加远程规则集时把两个链接都加上即可。域名规则与 IP 规则可以混在同一个规则集里（官方文档的完整示例就是域名 + IP 同文件），拆分纯粹是因为条数上限。
 
+## 广告拦截版（.arrs，拒绝连接）
+
+规则集名为 **MY🐲Block**，共 **166,882 条**域名后缀，动作是拒绝连接（routing = 2）。来源取了四家（HaGeZi Light、OISD Small、EasyPrivacy、anti-AD，含中文广告与追踪域名），并集后按后缀去冗余；AdGuard DNS 与 BlocklistProject 两家量大噪声多，未全量并入。同样受 10 万条上限所限拆成两个文件，**两个都要订阅**：
+
+| 文件 | 集名 | 条数 | 内容 |
+|---|---|---|---|
+| MYBlock.arrs | MY🐲Block | 99,999 | 域名后缀前段 |
+| MYBlock2.arrs | MY🐲Block 2 | 66,883 | 域名后缀后段 |
+
+```
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock.arrs
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock2.arrs
+```
+
+与直连集重叠的域名约 7 千条（多为国内广告域名）：在 Anywhere 的路由列表里把 MY🐲Block 两个集拖到 MY🐲Direct 上面，冲突时拦截优先。
+
 ## Clash 版（.yaml）
 
 **MYDirect.yaml** —— 同一份规则的 Clash 格式，单文件全集 156,805 条（Clash 没有 10 万条上限）：
