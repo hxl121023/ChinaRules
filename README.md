@@ -4,14 +4,14 @@
 
 ## Anywhere 版（.arrs）
 
-全集共 **156,804 条**（域名后缀 143,806 + IPv4 段 8,427 + IPv6 段 4,571）。
+规则集名为 **MY🐲Direct**。全集共 **156,805 条**（域名后缀 143,806 + IPv4 段 8,427 + IPv6 段 4,571 + 自定义关键词 1 条：`381209`，凡域名含 381209 即直连）。
 
 ⚠️ **Anywhere 官方规定单个规则集最多 100,000 条，超限整文件拒绝导入**（见官方文档 Documentations/Routing.md 的 Limits 一节），所以全集拆成两个文件，**两个都要订阅**，动作都是直连（routing = 1）：
 
-| 文件 | 条数 | 内容 |
-|---|---|---|
-| ChinaMax.arrs | 99,999 | 域名后缀 87,001 + 全部 IPv4/IPv6 段 |
-| ChinaMax2.arrs | 56,805 | 其余域名后缀 56,805 |
+| 文件 | 集名 | 条数 | 内容 |
+|---|---|---|---|
+| ChinaMax.arrs | MY🐲Direct | 99,999 | 关键词 1 + 域名后缀 87,000 + 全部 IPv4/IPv6 段 |
+| ChinaMax2.arrs | MY🐲Direct 2 | 56,806 | 其余域名后缀 56,806 |
 
 直链（免登录可拉）：
 
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/ChinaMax2.arrs
 
 ## Clash 版（.yaml）
 
-**ChinaMax.yaml** —— 同一份规则的 Clash 格式，单文件全集 156,804 条（Clash 没有 10 万条上限）：
+**ChinaMax.yaml** —— 同一份规则的 Clash 格式，单文件全集 156,805 条（Clash 没有 10 万条上限）：
 
 ```
 https://raw.githubusercontent.com/hxl121023/ChinaRules/main/ChinaMax.yaml
@@ -37,6 +37,6 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/ChinaMax.yaml
 - 域名：felixonmars/dnsmasq-china-list、Loyalsoldier direct、MetaCubeX geosite-cn、chikacya（CN_Additional / ChinaDomain / Geosite_CN / CN_Accelerated）、Sukka domestic、353355 cn-additional 原文、Aethersailor Custom_Direct、momokind 直连补充、ACL4SSR ChinaDomain、blackmatrix7 ChinaMax（ChinaMax_Domain.yaml，精确域名按后缀并入）
 - IP：APNIC 官方分配表、chikacya ChinaIP / GeoIP_CN（Country.mmdb）、blackmatrix7 ChinaIPs 与 ChinaMax_IP、17mon china_ip_list（全注册局合并）、firehol ipip_country_cn、misakaio/chnroutes2（BGP）、gaoyifan/china-operator-ip（BGP）、ChanthMiao China-IPv6-List
 
-注：域名关键词（DOMAIN-KEYWORD）类规则口径不一、容易误伤，未并入。
+注：各来源自带的域名关键词（DOMAIN-KEYWORD）口径不一、容易误伤，未并入；库内仅有用户自定义关键词 `381209` 一条。
 
 更新于 2026-11-09。
