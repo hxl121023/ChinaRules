@@ -4,14 +4,14 @@
 
 ## Anywhere 版（.arrs）
 
-规则集名为 **MY🐲Direct**。全集共 **156,805 条**（域名后缀 143,806 + IPv4 段 8,427 + IPv6 段 4,571 + 自定义关键词 1 条：`381209`，凡域名含 381209 即直连）。
+规则集名为 **MY🐲Direct**。全集共 **156,802 条**（域名后缀 143,803 + IPv4 段 8,427 + IPv6 段 4,571 + 自定义关键词 1 条：`381209`，凡域名含 381209 即直连）。
 
 ⚠️ **Anywhere 官方规定单个规则集最多 100,000 条，超限整文件拒绝导入**（见官方文档 Documentations/Routing.md 的 Limits 一节），所以全集拆成两个文件，**两个都要订阅**，动作都是直连（routing = 1）：
 
 | 文件 | 集名 | 条数 | 内容 |
 |---|---|---|---|
 | MYDirect.arrs | MY🐲Direct | 99,999 | 关键词 1 + 域名后缀 87,000 + 全部 IPv4/IPv6 段 |
-| MYDirect2.arrs | MY🐲Direct 2 | 56,806 | 其余域名后缀 56,806 |
+| MYDirect2.arrs | MY🐲Direct 2 | 56,803 | 其余域名后缀 56,803 |
 
 直链（免登录可拉）：
 
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock2.arrs
 
 ## Clash 版（.yaml）
 
-**MYDirect.yaml** —— 同一份规则的 Clash 格式，单文件全集 156,805 条（Clash 没有 10 万条上限）：
+**MYDirect.yaml** —— 同一份规则的 Clash 格式，单文件全集 156,802 条（Clash 没有 10 万条上限）：
 
 ```
 https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.yaml

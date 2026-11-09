@@ -14379,10 +14379,6 @@ routing = 1
 2, amoe.cc
 2, amonxu.com
 2, amoydxmed.com
-2, amp-api-edge.apps.apple.com
-2, amp-api-search-edge.apps.apple.com
-2, amp-api-updates.apps.apple.com
-2, amp-api.apps.apple.com
 2, amp-api.media.apple.com
 2, amp-intl.com
 2, ampcn.com
@@ -15156,7 +15152,6 @@ routing = 1
 2, api-98kb.cn
 2, api-98kb.com
 2, api-building.fun
-2, api-edge.apps.apple.com
 2, api-expo.com
 2, api-forwards.com
 2, api-m.com
@@ -15367,6 +15362,7 @@ routing = 1
 2, approvebook.com
 2, apprtc.cn
 2, apprun.cc
+2, apps.apple.com
 2, apps121.com
 2, apps5.oingo.com
 2, apps668.com
@@ -62035,6 +62031,7 @@ routing = 1
 2, iadiae.com
 2, iadlink.cn
 2, iadmob.com
+2, iadsdk.apple.com
 2, iadtracker.com
 2, iaeac.org
 2, iagefans.com
@@ -87010,6 +87007,9 @@ routing = 1
 2, niiwoo.com
 2, nijiso.cn
 2, nikaixinjiuhao.com
+2, nikanpian.com
+2, nike.host
+2, nike666.com
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23

@@ -1,12 +1,12 @@
 # NAME: MY🐲Direct
 # AUTHOR: hxl121023
 # REPO: https://github.com/hxl121023/ChinaRules
-# UPDATED: 2026-11-09 09:11:56
-# DOMAIN-SUFFIX: 143806
+# UPDATED: 2026-11-09
+# DOMAIN-SUFFIX: 143803
 # IP-CIDR: 8427
 # IP-CIDR6: 4571
 # DOMAIN-KEYWORD: 1
-# TOTAL: 156805
+# TOTAL: 156802
 payload:
   - DOMAIN-KEYWORD,381209
   - DOMAIN-SUFFIX,0.zone
@@ -14378,10 +14378,6 @@ payload:
   - DOMAIN-SUFFIX,amoe.cc
   - DOMAIN-SUFFIX,amonxu.com
   - DOMAIN-SUFFIX,amoydxmed.com
-  - DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
-  - DOMAIN-SUFFIX,amp-api-search-edge.apps.apple.com
-  - DOMAIN-SUFFIX,amp-api-updates.apps.apple.com
-  - DOMAIN-SUFFIX,amp-api.apps.apple.com
   - DOMAIN-SUFFIX,amp-api.media.apple.com
   - DOMAIN-SUFFIX,amp-intl.com
   - DOMAIN-SUFFIX,ampcn.com
@@ -15155,7 +15151,6 @@ payload:
   - DOMAIN-SUFFIX,api-98kb.cn
   - DOMAIN-SUFFIX,api-98kb.com
   - DOMAIN-SUFFIX,api-building.fun
-  - DOMAIN-SUFFIX,api-edge.apps.apple.com
   - DOMAIN-SUFFIX,api-expo.com
   - DOMAIN-SUFFIX,api-forwards.com
   - DOMAIN-SUFFIX,api-m.com
@@ -15366,6 +15361,7 @@ payload:
   - DOMAIN-SUFFIX,approvebook.com
   - DOMAIN-SUFFIX,apprtc.cn
   - DOMAIN-SUFFIX,apprun.cc
+  - DOMAIN-SUFFIX,apps.apple.com
   - DOMAIN-SUFFIX,apps121.com
   - DOMAIN-SUFFIX,apps5.oingo.com
   - DOMAIN-SUFFIX,apps668.com
@@ -62034,6 +62030,7 @@ payload:
   - DOMAIN-SUFFIX,iadiae.com
   - DOMAIN-SUFFIX,iadlink.cn
   - DOMAIN-SUFFIX,iadmob.com
+  - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,iadtracker.com
   - DOMAIN-SUFFIX,iaeac.org
   - DOMAIN-SUFFIX,iagefans.com
