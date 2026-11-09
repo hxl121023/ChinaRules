@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-09
+# UPDATED: 2026-11-10
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -4757,6 +4757,7 @@ routing = 1
 2, 3733game.com
 2, 3737.com
 2, 3737k.com
+2, 373979.cc
 2, 373a5e2a6f8a3f9a.com
 2, 373c0f3771021.beer
 2, 373f.com
@@ -21610,6 +21611,7 @@ routing = 1
 2, btgame.com
 2, btghotels.com
 2, btgljt.com
+2, btgpy.com
 2, btgtravel.com
 2, btgxjw.com
 2, bth.vip
@@ -25286,6 +25288,7 @@ routing = 1
 2, chaosqh.com
 2, chaosw.com
 2, chaov.com
+2, chaoway.net
 2, chaoweb.com
 2, chaowei-machine.com
 2, chaoxibiao.net
@@ -27266,6 +27269,7 @@ routing = 1
 2, chiwayedu.com
 2, chiwayind.com
 2, chixia.com
+2, chixiatech.com
 2, chixm.com
 2, chixuyun.com
 2, chiyanjiasu.com
@@ -36396,6 +36400,7 @@ routing = 1
 2, dlcaic.com
 2, dlcsos.com
 2, dld56.com
+2, dldcsj.com
 2, dldlsw.com
 2, dldm.com
 2, dledu.com
@@ -39766,6 +39771,7 @@ routing = 1
 2, edwcofp.cn
 2, edwiv.com
 2, edxmy.cc
+2, edyr2ip7zg.com
 2, edyunyddc13.cn
 2, ee067e33bd637916.com
 2, ee123.net
@@ -59593,6 +59599,7 @@ routing = 1
 2, huangyuewenxue.com
 2, huangyuhui.net
 2, huangyunkun.com
+2, huangyusz.space
 2, huangzz.xyz
 2, huanhaoba.com
 2, huanheng01.cn
@@ -62431,6 +62438,7 @@ routing = 1
 2, ichoice.xin
 2, ichong123.com
 2, ichongdao.com
+2, ichongjiayuan.com
 2, ichongqing.info
 2, ichtcm.com
 2, ichuanghui.cn
@@ -62938,6 +62946,7 @@ routing = 1
 2, ifanrx.com
 2, ifareast.com
 2, ifatrabbit.com
+2, ifawj9hvvl.com
 2, ifaxin.com
 2, ifaxin.org
 2, ifaxuan.cn
@@ -67880,6 +67889,7 @@ routing = 1
 2, jingweizhichuang.com
 2, jingwuhui.com
 2, jingwxcx.com
+2, jingxi-wl.com
 2, jingxi.co
 2, jingxi.com
 2, jingxi.live
@@ -71410,6 +71420,7 @@ routing = 1
 2, jztweb.com
 2, jzty.com
 2, jztylxx.com
+2, jztysg.com
 2, jztzw.net
 2, jzwc.net
 2, jzwhjx.cn
@@ -76772,6 +76783,7 @@ routing = 1
 2, libssh.com
 2, libsys.net
 2, libtop.com
+2, libtv.com
 2, libvideo.com
 2, lic-bcbc.com
 2, lic-slf-dom.com
@@ -84459,6 +84471,7 @@ routing = 1
 2, msr.ink
 2, msrsyapei.com
 2, msscdn.com
+2, mssdag.com
 2, mssq.cc
 2, msstatic.com
 2, mssxapp.com
@@ -85766,6 +85779,7 @@ routing = 1
 2, nanjingyinuo.com
 2, nanjixiong.com
 2, nanjtb.com
+2, nanjyiyun.com
 2, nankaimba.org
 2, nankongyin.com
 2, nanlew.com
@@ -86996,20 +87010,6 @@ routing = 1
 2, nihaowang.com
 2, nihil.cc
 2, nihonngo.site
-2, niiam.com
-2, niiceda.com
-2, niiddm.com
-2, niiic.cn
-2, niim.cc
-2, niimbot.com
-2, niimbot.info
-2, niimbot.net
-2, niiwoo.com
-2, nijiso.cn
-2, nikaixinjiuhao.com
-2, nikanpian.com
-2, nike.host
-2, nike666.com
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
