@@ -10,24 +10,24 @@
 
 | 文件 | 集名 | 条数 | 内容 |
 |---|---|---|---|
-| ChinaMax.arrs | MY🐲Direct | 99,999 | 关键词 1 + 域名后缀 87,000 + 全部 IPv4/IPv6 段 |
-| ChinaMax2.arrs | MY🐲Direct 2 | 56,806 | 其余域名后缀 56,806 |
+| MYDirect.arrs | MY🐲Direct | 99,999 | 关键词 1 + 域名后缀 87,000 + 全部 IPv4/IPv6 段 |
+| MYDirect2.arrs | MY🐲Direct 2 | 56,806 | 其余域名后缀 56,806 |
 
 直链（免登录可拉）：
 
 ```
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/ChinaMax.arrs
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/ChinaMax2.arrs
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.arrs
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect2.arrs
 ```
 
 在 Anywhere 里添加远程规则集时把两个链接都加上即可。域名规则与 IP 规则可以混在同一个规则集里（官方文档的完整示例就是域名 + IP 同文件），拆分纯粹是因为条数上限。
 
 ## Clash 版（.yaml）
 
-**ChinaMax.yaml** —— 同一份规则的 Clash 格式，单文件全集 156,805 条（Clash 没有 10 万条上限）：
+**MYDirect.yaml** —— 同一份规则的 Clash 格式，单文件全集 156,805 条（Clash 没有 10 万条上限）：
 
 ```
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/ChinaMax.yaml
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.yaml
 ```
 
 ## 数据来源与比对
