@@ -24,12 +24,12 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect2.arrs
 
 ## 广告拦截版（.arrs，拒绝连接）
 
-规则集名为 **MY🐲Block**，共 **166,882 条**域名后缀，动作是拒绝连接（routing = 2）。来源取了四家（HaGeZi Light、OISD Small、EasyPrivacy、anti-AD，含中文广告与追踪域名），并集后按后缀去冗余；AdGuard DNS 与 BlocklistProject 两家量大噪声多，未全量并入。同样受 10 万条上限所限拆成两个文件，**两个都要订阅**：
+规则集名为 **MY🐲Block**，共 **166,883 条**域名后缀，动作是拒绝连接（routing = 2）。来源取了四家（HaGeZi Light、OISD Small、EasyPrivacy、anti-AD，含中文广告与追踪域名），并集后按后缀去冗余；AdGuard DNS 与 BlocklistProject 两家量大噪声多，未全量并入。同样受 10 万条上限所限拆成两个文件，**两个都要订阅**：
 
 | 文件 | 集名 | 条数 | 内容 |
 |---|---|---|---|
 | MYBlock.arrs | MY🐲Block | 99,999 | 域名后缀前段 |
-| MYBlock2.arrs | MY🐲Block 2 | 66,883 | 域名后缀后段 |
+| MYBlock2.arrs | MY🐲Block 2 | 66,884 | 域名后缀后段 |
 
 ```
 https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock.arrs
