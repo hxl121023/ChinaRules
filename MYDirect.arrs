@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-10
+# UPDATED: 2026-11-11
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -27721,6 +27721,7 @@ routing = 1
 2, chxqxnr.com
 2, chxyl.com
 2, chxyq.com
+2, chyqaq.online
 2, chysan.com
 2, chysoft.net
 2, chyw.pub
@@ -76649,6 +76650,7 @@ routing = 1
 2, liangyi360.com
 2, liangyiyy.com
 2, liangyuan.com
+2, liangyuji.com
 2, liangzhishu.com
 2, liangziheikeji.com
 2, lianhaikeji.com
@@ -86959,57 +86961,6 @@ routing = 1
 2, nicetour.cn
 2, nicetourair.com
 2, nicetourasia.cn
-2, nicetouryc.cn
-2, nicetuan.net
-2, nicewatch.cc
-2, nicexf.com
-2, nicezhuanye.com
-2, nichuanbo.com
-2, niciei.com
-2, nickbussok.com
-2, nicksxs.com
-2, nicky1605.com
-2, nicolaszhao.com
-2, niconiconi.cc
-2, nicosu.com
-2, nicot-motor.com
-2, nicotine.vip
-2, nicp.fun
-2, nics365.com
-2, nicsbuy.com
-2, nicwind.com
-2, nidcloud.cn
-2, nidecms.com
-2, nidiandaojia.com
-2, nieapps.com
-2, niegobrand.com
-2, niegoweb.com
-2, nieic-icv.cn
-2, nieiic.com
-2, nielsenccdata.tv
-2, niendorf-piano.com
-2, nienieta.com
-2, nies.org
-2, nieta.art
-2, niexiaotao.com
-2, nieyou.com
-2, nifdc.com
-2, nifengz.com
-2, nifxechat.cn
-2, nightanddaythegame.com
-2, nightcity.pub
-2, nightmare.press
-2, nihao.net
-2, nihaoafrica.org
-2, nihaobank.cn
-2, nihaobank.com
-2, nihaodd.com
-2, nihaorwanda.cn
-2, nihaotv.net
-2, nihaotw.com
-2, nihaowang.com
-2, nihil.cc
-2, nihonngo.site
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -92002,6 +91953,7 @@ routing = 1
 0, 140.249.0.0/16
 0, 140.250.0.0/16
 0, 140.255.0.0/16
+0, 141.229.14.0/23
 0, 142.70.0.0/16
 0, 142.86.0.0/16
 0, 143.20.70.0/23
@@ -92489,6 +92441,7 @@ routing = 1
 0, 165.154.128.0/18
 0, 165.154.192.0/19
 0, 165.156.30.0/24
+0, 165.173.176.0/24
 0, 165.173.179.0/24
 0, 165.225.254.104/31
 0, 166.111.0.0/16
@@ -96415,6 +96368,7 @@ routing = 1
 1, 2402:7ee0::/32
 1, 2402:8160::/32
 1, 2402:8180::/32
+1, 2402:8260::/32
 1, 2402:8300::/32
 1, 2402:8380::/32
 1, 2402:85c0::/32
@@ -98265,10 +98219,13 @@ routing = 1
 1, 2a05:dfc1:710e::/48
 1, 2a05:dfc3:ff00::/40
 1, 2a05:e580:700::/40
-1, 2a06:1182::/32
+1, 2a06:1182::/31
+1, 2a06:1186::/31
 1, 2a06:1287:3901:1::/64
 1, 2a06:1287:3910::/48
 1, 2a06:1287:3921::/48
+1, 2a06:35c5::/32
+1, 2a06:35c6::/31
 1, 2a06:9801:20::/48
 1, 2a06:9801:2ba::/48
 1, 2a06:9801:f95::/48
@@ -98288,14 +98245,20 @@ routing = 1
 1, 2a06:a005:1c40::/44
 1, 2a06:a005:2040::/44
 1, 2a06:a005:2910::/44
+1, 2a06:de02:42d::/48
 1, 2a06:de02:466::/48
 1, 2a06:de02:48a::/48
 1, 2a06:de02:4d2::/48
 1, 2a06:de02:565::/48
+1, 2a06:de02:5a7::/48
 1, 2a06:de02:5f7::/48
 1, 2a06:de02:637::/48
+1, 2a06:de02:639::/48
+1, 2a06:de02:66b::/48
 1, 2a06:de02:673::/48
+1, 2a06:de02:70a::/48
 1, 2a06:de02:78d::/48
+1, 2a06:de02:79c::/48
 1, 2a06:de07:f800::/38
 1, 2a06:e881:3800::/44
 1, 2a07:54c1:2200::/40
@@ -98303,6 +98266,8 @@ routing = 1
 1, 2a07:e000:20::/44
 1, 2a07:f480::/29
 1, 2a09:4c0:0:30::/64
+1, 2a09:17c4::/31
+1, 2a09:17c6::/32
 1, 2a09:2700:2800::/40
 1, 2a09:2702:48::/48
 1, 2a09:3f00:4600::/39
@@ -99387,6 +99352,7 @@ routing = 1
 1, 2a0a:280:1500::/40
 1, 2a0a:280:2722::/47
 1, 2a0a:2840::/29
+1, 2a0a:2d03::/32
 1, 2a0a:6040:e01::/48
 1, 2a0a:6040:e02::/48
 1, 2a0a:6040:ea0::/48
@@ -99502,6 +99468,8 @@ routing = 1
 1, 2a0b:b583::/48
 1, 2a0c:3b80:434e::/48
 1, 2a0c:3b80:636e::/48
+1, 2a0c:7880::/32
+1, 2a0c:7884::/32
 1, 2a0c:9a40:8fc2::/47
 1, 2a0c:9a40:8fc4::/48
 1, 2a0c:9a40:95bf:7000::/54
@@ -99551,6 +99519,12 @@ routing = 1
 1, 2a0d:2904::/44
 1, 2a0d:c7c7:400::/38
 1, 2a0d:d941::/36
+1, 2a0e:15c1::/32
+1, 2a0e:15c2::/31
+1, 2a0e:1a81::/32
+1, 2a0e:1a82::/32
+1, 2a0e:1a85::/32
+1, 2a0e:1a87::/32
 1, 2a0e:4001:3000::/40
 1, 2a0e:4001:9000::/36
 1, 2a0e:4005:ff10::/48
@@ -99641,6 +99615,7 @@ routing = 1
 1, 2a0e:b107:1b60::/44
 1, 2a0e:b107:2440::/44
 1, 2a0e:b107:2715::/48
+1, 2a0e:c780::/30
 1, 2a0e:d781::/32
 1, 2a0e:ec01:7000::/38
 1, 2a0e:ec03:8c0::/42
@@ -99652,6 +99627,13 @@ routing = 1
 1, 2a0e:ec05:79c0::/42
 1, 2a0e:ec05:7a00::/40
 1, 2a0e:ec05:7b00::/42
+1, 2a0e:f202::/31
+1, 2a0e:f204::/31
+1, 2a0e:f605::/32
+1, 2a0e:f606::/31
+1, 2a0f:1201::/32
+1, 2a0f:1204::/31
+1, 2a0f:1582::/31
 1, 2a0f:1cc5:10::/46
 1, 2a0f:1cc5:20::/44
 1, 2a0f:1cc5:130::/44
@@ -99698,6 +99680,7 @@ routing = 1
 1, 2a0f:1cc5:2550::/48
 1, 2a0f:1cc5:2600::/41
 1, 2a0f:1cc5:2680::/42
+1, 2a0f:1cc5:2810::/44
 1, 2a0f:1cc5:3203::/48
 1, 2a0f:1cc5:3210::/44
 1, 2a0f:1cc5:3222::/48
@@ -99721,7 +99704,22 @@ routing = 1
 1, 2a0f:1cc6:b212::/48
 1, 2a0f:1cc6:b240::/43
 1, 2a0f:1cc6:b271::/48
+1, 2a0f:1e02::/31
+1, 2a0f:1e04::/31
+1, 2a0f:1e82::/31
+1, 2a0f:1e85::/32
+1, 2a0f:1e87::/32
+1, 2a0f:2701::/32
+1, 2a0f:2702::/31
+1, 2a0f:2704::/32
 1, 2a0f:2706::/32
+1, 2a0f:2d85::/32
+1, 2a0f:2d86::/31
+1, 2a0f:3040::/31
+1, 2a0f:3042::/32
+1, 2a0f:31c0::/32
+1, 2a0f:31c2::/32
+1, 2a0f:31c6::/32
 1, 2a0f:6280:1400::/44
 1, 2a0f:6280:1420::/43
 1, 2a0f:6280:1440::/42
@@ -99782,6 +99780,7 @@ routing = 1
 1, 2a10:ccc0:cc2::/48
 1, 2a10:ccc0:ccc::/48
 1, 2a10:ccc0:c0c2::/47
+1, 2a10:fa80:13::/48
 1, 2a10:fa81:d00::/40
 1, 2a10:fa86::/34
 1, 2a10:fa86:c000::/34
@@ -99825,6 +99824,7 @@ routing = 1
 1, 2a12:cb41:1300::/44
 1, 2a12:cb41:13f0::/44
 1, 2a12:cb46:6000::/38
+1, 2a12:cb46:6400::/44
 1, 2a12:cb46:6fff::/48
 1, 2a12:cb47:ffff::/48
 1, 2a12:dd47:db2c::/48
