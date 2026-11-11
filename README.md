@@ -5,14 +5,14 @@
 
 ## Anywhere 版（.arrs）
 
-规则集名为 **MY🐲Direct**。全集共 **156644 条**（域名后缀 143591 + IPv4 段 8430 + IPv6 段 4622 + 自定义关键词 1 条）。
+规则集名为 **MY🐲Direct**。全集共 **156761 条**（域名后缀 143708 + IPv4 段 8430 + IPv6 段 4622 + 自定义关键词 1 条）。
 
 ⚠️ **Anywhere 官方规定单个规则集最多 100,000 条，超限整文件拒绝导入**，所以全集拆成两个文件，**两个都要订阅**，动作都是直连（routing = 1）：
 
 | 文件 | 条数 | 内容 |
 |---|---|---|
 | MYDirect.arrs | 99999 | 关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段 |
-| MYDirect2.arrs | 56645 | 其余域名后缀 |
+| MYDirect2.arrs | 56762 | 其余域名后缀 |
 
 ```
 https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.arrs
