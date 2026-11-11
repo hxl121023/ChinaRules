@@ -5,14 +5,14 @@
 
 ## Anywhere 版（.arrs）
 
-规则集名为 **MY🐲Direct**。全集共 **156874 条**（域名后缀 143826 + IPv4 段 8429 + IPv6 段 4618 + 自定义关键词 1 条）。
+规则集名为 **MY🐲Direct**。全集共 **156644 条**（域名后缀 143591 + IPv4 段 8430 + IPv6 段 4622 + 自定义关键词 1 条）。
 
 ⚠️ **Anywhere 官方规定单个规则集最多 100,000 条，超限整文件拒绝导入**，所以全集拆成两个文件，**两个都要订阅**，动作都是直连（routing = 1）：
 
 | 文件 | 条数 | 内容 |
 |---|---|---|
 | MYDirect.arrs | 99999 | 关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段 |
-| MYDirect2.arrs | 56875 | 其余域名后缀 |
+| MYDirect2.arrs | 56645 | 其余域名后缀 |
 
 ```
 https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.arrs
@@ -23,12 +23,12 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect2.arrs
 
 ## 广告拦截版（.arrs，拒绝连接）
 
-规则集名为 **MY🐲Block**，共 **170470 条**域名后缀，动作是拒绝连接（routing = 2）。来源：HaGeZi Light、OISD Small、EasyPrivacy、anti-AD（含中文广告与追踪域名），并集后按后缀去冗余。同样拆成两个文件，**两个都要订阅**：
+规则集名为 **MY🐲Block**，共 **171173 条**域名后缀，动作是拒绝连接（routing = 2）。来源：HaGeZi Light、OISD Small、EasyPrivacy、anti-AD（含中文广告与追踪域名），并集后按后缀去冗余。同样拆成两个文件，**两个都要订阅**：
 
 | 文件 | 条数 | 内容 |
 |---|---|---|
 | MYBlock.arrs | 99999 | 域名后缀前段 |
-| MYBlock2.arrs | 70471 | 域名后缀后段 |
+| MYBlock2.arrs | 71174 | 域名后缀后段 |
 
 ```
 https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock.arrs
