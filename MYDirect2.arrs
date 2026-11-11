@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名合集（下）：域名后缀后段，直连；与 MY🐲Direct 配套
 # RULES: 56762
-# UPDATED: 2026-11-11
+# UPDATED: 2026-11-12
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct 2

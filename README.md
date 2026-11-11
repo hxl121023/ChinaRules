@@ -23,12 +23,12 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect2.arrs
 
 ## 广告拦截版（.arrs，拒绝连接）
 
-规则集名为 **MY🐲Block**，共 **171173 条**域名后缀，动作是拒绝连接（routing = 2）。来源：HaGeZi Light、OISD Small、EasyPrivacy、anti-AD（含中文广告与追踪域名），并集后按后缀去冗余。同样拆成两个文件，**两个都要订阅**：
+规则集名为 **MY🐲Block**，共 **171310 条**域名后缀，动作是拒绝连接（routing = 2）。来源：HaGeZi Light、OISD Small、EasyPrivacy、anti-AD（含中文广告与追踪域名），并集后按后缀去冗余。同样拆成两个文件，**两个都要订阅**：
 
 | 文件 | 条数 | 内容 |
 |---|---|---|
 | MYBlock.arrs | 99999 | 域名后缀前段 |
-| MYBlock2.arrs | 71174 | 域名后缀后段 |
+| MYBlock2.arrs | 71311 | 域名后缀后段 |
 
 ```
 https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock.arrs
@@ -49,4 +49,4 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.yaml
 
 直连集经三轮全网比对查漏补缺后定下的来源（每日自动复查）：felixonmars、Loyalsoldier、MetaCubeX geosite-cn、chikacya（CN_Additional / ChinaDomain / Geosite_CN / CN_Accelerated / ChinaIP / GeoIP_CN）、Sukka、353355 cn-additional、Aethersailor Custom_Direct、momokind、ACL4SSR、blackmatrix7（ChinaMax_Domain / ChinaMax_IP / ChinaIPs）、APNIC、17mon、firehol ipip、misakaio chnroutes2、gaoyifan china-operator-ip、ChanthMiao IPv6。域名关键词类口径不一、易误伤，未并入。
 
-更新于 2026-11-11。
+更新于 2026-11-12。
