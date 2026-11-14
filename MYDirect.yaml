@@ -1,12 +1,12 @@
 # NAME: MY🐲Direct
 # AUTHOR: hxl121023
 # REPO: https://github.com/hxl121023/ChinaRules
-# UPDATED: 2026-11-14
-# DOMAIN-SUFFIX: 143813
+# UPDATED: 2026-11-15
+# DOMAIN-SUFFIX: 143824
 # IP-CIDR: 8435
-# IP-CIDR6: 4629
+# IP-CIDR6: 4633
 # DOMAIN-KEYWORD: 1
-# TOTAL: 156878
+# TOTAL: 156893
 payload:
   - DOMAIN-KEYWORD,381209
   - DOMAIN-SUFFIX,0.zone
@@ -3017,6 +3017,7 @@ payload:
   - DOMAIN-SUFFIX,1otprlm.com
   - DOMAIN-SUFFIX,1paibao.net
   - DOMAIN-SUFFIX,1panel.cn
+  - DOMAIN-SUFFIX,1panel.dev
   - DOMAIN-SUFFIX,1pdd.cc
   - DOMAIN-SUFFIX,1plas.com
   - DOMAIN-SUFFIX,1pm2.com
@@ -12006,6 +12007,7 @@ payload:
   - DOMAIN-SUFFIX,adplusx.cn
   - DOMAIN-SUFFIX,adplusx.com
   - DOMAIN-SUFFIX,adpsh.com
+  - DOMAIN-SUFFIX,adqiyu.com
   - DOMAIN-SUFFIX,adqtt.net
   - DOMAIN-SUFFIX,adquan.com
   - DOMAIN-SUFFIX,adrkwai.com
@@ -15563,6 +15565,7 @@ payload:
   - DOMAIN-SUFFIX,areweloongyet.com
   - DOMAIN-SUFFIX,arextecn.com
   - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,argslink.com
   - DOMAIN-SUFFIX,argylehotels.com
   - DOMAIN-SUFFIX,arhoo.com
   - DOMAIN-SUFFIX,aridge.com
@@ -18790,6 +18793,7 @@ payload:
   - DOMAIN-SUFFIX,betaflare.com
   - DOMAIN-SUFFIX,betahub.tech
   - DOMAIN-SUFFIX,betaidc.com
+  - DOMAIN-SUFFIX,betaints.com
   - DOMAIN-SUFFIX,betamao.me
   - DOMAIN-SUFFIX,betaquantity.com
   - DOMAIN-SUFFIX,betasmart.tech
@@ -56606,6 +56610,7 @@ payload:
   - DOMAIN-SUFFIX,hi1718.com
   - DOMAIN-SUFFIX,hi2000.com
   - DOMAIN-SUFFIX,hi2000.net
+  - DOMAIN-SUFFIX,hi3d.ai
   - DOMAIN-SUFFIX,hi772.com
   - DOMAIN-SUFFIX,hi9377.com
   - DOMAIN-SUFFIX,hiaiabc.com
@@ -63023,6 +63028,7 @@ payload:
   - DOMAIN-SUFFIX,iflysec.com
   - DOMAIN-SUFFIX,iflysign.com
   - DOMAIN-SUFFIX,iflysz.com
+  - DOMAIN-SUFFIX,iflytck.com
   - DOMAIN-SUFFIX,iflytek.com
   - DOMAIN-SUFFIX,iflytekauto.cn
   - DOMAIN-SUFFIX,iflytekdc.com
@@ -77589,6 +77595,7 @@ payload:
   - DOMAIN-SUFFIX,litecoin.ink
   - DOMAIN-SUFFIX,litecoin.ren
   - DOMAIN-SUFFIX,litemob.net
+  - DOMAIN-SUFFIX,litemob.vip
   - DOMAIN-SUFFIX,litenews.cn
   - DOMAIN-SUFFIX,liteng-industry.com
   - DOMAIN-SUFFIX,litepress.cn
@@ -98052,6 +98059,7 @@ payload:
   - DOMAIN-SUFFIX,remixicon.com
   - DOMAIN-SUFFIX,remkepegv.com
   - DOMAIN-SUFFIX,remo-ai.com
+  - DOMAIN-SUFFIX,remo.video
   - DOMAIN-SUFFIX,remodelife.com
   - DOMAIN-SUFFIX,remotcon.mobi
   - DOMAIN-SUFFIX,remoteaps.com
@@ -108522,6 +108530,7 @@ payload:
   - DOMAIN-SUFFIX,suitaichem.com
   - DOMAIN-SUFFIX,suitdaily.com
   - DOMAIN-SUFFIX,suiunited.com
+  - DOMAIN-SUFFIX,suiwan.com
   - DOMAIN-SUFFIX,suixianwang.net
   - DOMAIN-SUFFIX,suixin8.com
   - DOMAIN-SUFFIX,suixingou.com
@@ -138090,6 +138099,7 @@ payload:
   - DOMAIN-SUFFIX,zaofacai.com
   - DOMAIN-SUFFIX,zaogai.com
   - DOMAIN-SUFFIX,zaogoods.com
+  - DOMAIN-SUFFIX,zaohaowu.net
   - DOMAIN-SUFFIX,zaohua.studio
   - DOMAIN-SUFFIX,zaohua.top
   - DOMAIN-SUFFIX,zaohua.xyz
@@ -143534,6 +143544,7 @@ payload:
   - DOMAIN-SUFFIX,zyxmmovie.com
   - DOMAIN-SUFFIX,zyxr.com
   - DOMAIN-SUFFIX,zyxtqk.com
+  - DOMAIN-SUFFIX,zyxwvutsrqpo.com
   - DOMAIN-SUFFIX,zyxx11.com
   - DOMAIN-SUFFIX,zyxxlyg.com
   - DOMAIN-SUFFIX,zyxyfy.com
@@ -155098,6 +155109,7 @@ payload:
   - IP-CIDR6,2a06:9801:2ba::/48,no-resolve
   - IP-CIDR6,2a06:9801:f95::/48,no-resolve
   - IP-CIDR6,2a06:9801:1300::/40,no-resolve
+  - IP-CIDR6,2a06:9801:15e3::/48,no-resolve
   - IP-CIDR6,2a06:9f45:1111::/48,no-resolve
   - IP-CIDR6,2a06:9f81:4600::/44,no-resolve
   - IP-CIDR6,2a06:9f81:4630::/44,no-resolve
@@ -155123,16 +155135,19 @@ payload:
   - IP-CIDR6,2a06:de02:5a7::/48,no-resolve
   - IP-CIDR6,2a06:de02:5f7::/48,no-resolve
   - IP-CIDR6,2a06:de02:606::/48,no-resolve
+  - IP-CIDR6,2a06:de02:61f::/48,no-resolve
   - IP-CIDR6,2a06:de02:631::/48,no-resolve
   - IP-CIDR6,2a06:de02:637::/48,no-resolve
   - IP-CIDR6,2a06:de02:639::/48,no-resolve
   - IP-CIDR6,2a06:de02:63d::/48,no-resolve
   - IP-CIDR6,2a06:de02:643::/48,no-resolve
+  - IP-CIDR6,2a06:de02:647::/48,no-resolve
   - IP-CIDR6,2a06:de02:648::/48,no-resolve
   - IP-CIDR6,2a06:de02:650::/48,no-resolve
   - IP-CIDR6,2a06:de02:66b::/48,no-resolve
   - IP-CIDR6,2a06:de02:673::/48,no-resolve
   - IP-CIDR6,2a06:de02:70a::/48,no-resolve
+  - IP-CIDR6,2a06:de02:783::/48,no-resolve
   - IP-CIDR6,2a06:de02:78d::/48,no-resolve
   - IP-CIDR6,2a06:de02:795::/48,no-resolve
   - IP-CIDR6,2a06:de02:79c::/48,no-resolve

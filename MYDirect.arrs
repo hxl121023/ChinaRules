@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-14
+# UPDATED: 2026-11-15
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -3018,6 +3018,7 @@ routing = 1
 2, 1otprlm.com
 2, 1paibao.net
 2, 1panel.cn
+2, 1panel.dev
 2, 1pdd.cc
 2, 1plas.com
 2, 1pm2.com
@@ -12007,6 +12008,7 @@ routing = 1
 2, adplusx.cn
 2, adplusx.com
 2, adpsh.com
+2, adqiyu.com
 2, adqtt.net
 2, adquan.com
 2, adrkwai.com
@@ -15564,6 +15566,7 @@ routing = 1
 2, areweloongyet.com
 2, arextecn.com
 2, argotunnel.com
+2, argslink.com
 2, argylehotels.com
 2, arhoo.com
 2, aridge.com
@@ -18791,6 +18794,7 @@ routing = 1
 2, betaflare.com
 2, betahub.tech
 2, betaidc.com
+2, betaints.com
 2, betamao.me
 2, betaquantity.com
 2, betasmart.tech
@@ -56607,6 +56611,7 @@ routing = 1
 2, hi1718.com
 2, hi2000.com
 2, hi2000.net
+2, hi3d.ai
 2, hi772.com
 2, hi9377.com
 2, hiaiabc.com
@@ -63024,6 +63029,7 @@ routing = 1
 2, iflysec.com
 2, iflysign.com
 2, iflysz.com
+2, iflytck.com
 2, iflytek.com
 2, iflytekauto.cn
 2, iflytekdc.com
@@ -77590,6 +77596,7 @@ routing = 1
 2, litecoin.ink
 2, litecoin.ren
 2, litemob.net
+2, litemob.vip
 2, litenews.cn
 2, liteng-industry.com
 2, litepress.cn
@@ -86933,17 +86940,6 @@ routing = 1
 2, nicebing.com
 2, nicebooker.com
 2, nicecdn.com
-2, nicefilm.com
-2, niceguo.com
-2, niceinno.com
-2, niceios.com
-2, niceisp.com
-2, nicekid.com
-2, nicelabel.cc
-2, niceloo.com
-2, nicenergy.com
-2, nicepaipai.cn
-2, nicesnow.com
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -98220,6 +98216,7 @@ routing = 1
 1, 2a06:9801:2ba::/48
 1, 2a06:9801:f95::/48
 1, 2a06:9801:1300::/40
+1, 2a06:9801:15e3::/48
 1, 2a06:9f45:1111::/48
 1, 2a06:9f81:4600::/44
 1, 2a06:9f81:4630::/44
@@ -98245,16 +98242,19 @@ routing = 1
 1, 2a06:de02:5a7::/48
 1, 2a06:de02:5f7::/48
 1, 2a06:de02:606::/48
+1, 2a06:de02:61f::/48
 1, 2a06:de02:631::/48
 1, 2a06:de02:637::/48
 1, 2a06:de02:639::/48
 1, 2a06:de02:63d::/48
 1, 2a06:de02:643::/48
+1, 2a06:de02:647::/48
 1, 2a06:de02:648::/48
 1, 2a06:de02:650::/48
 1, 2a06:de02:66b::/48
 1, 2a06:de02:673::/48
 1, 2a06:de02:70a::/48
+1, 2a06:de02:783::/48
 1, 2a06:de02:78d::/48
 1, 2a06:de02:795::/48
 1, 2a06:de02:79c::/48
