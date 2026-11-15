@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-15
+# UPDATED: 2026-11-16
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -12506,6 +12506,7 @@ routing = 1
 2, ahluqiao.com
 2, ahlxb.com
 2, ahlyjt.com
+2, ahmahandmade.com
 2, ahmif.com
 2, ahmky.com
 2, ahmwgroup.com
@@ -27947,6 +27948,7 @@ routing = 1
 2, cispcredit.com
 2, cisskwt.com
 2, cistds.org
+2, cistore.cn
 2, cistsc.cn
 2, cistsc.com
 2, cistsc.net
@@ -28616,6 +28618,7 @@ routing = 1
 2, cloudrive.cn
 2, cloudrmt.com
 2, cloudroom.com
+2, cloudruit.cn
 2, clouds1000.com
 2, cloudsail.net
 2, cloudsailer.cn
@@ -29787,6 +29790,7 @@ routing = 1
 2, cnpcbidding.com
 2, cnpcgas.com
 2, cnpcmall.com
+2, cnpcsp.com
 2, cnpdccutter.com
 2, cnpenjing.com
 2, cnpereading.com
@@ -33006,6 +33010,7 @@ routing = 1
 2, cyqxtpdit.com
 2, cyqyfyxh.com
 2, cyrcwzpw.com
+2, cyrftech.com
 2, cyruc.com
 2, cyrx.com
 2, cys.world
@@ -35868,6 +35873,7 @@ routing = 1
 2, digibig.cn
 2, digibig.com
 2, digibig.net
+2, digiccykp.com
 2, digicert.cn
 2, digigd.com
 2, digihail.com
@@ -37213,6 +37219,7 @@ routing = 1
 2, dossav.com
 2, dossen.com
 2, dossen.net
+2, dossenbuy.com
 2, dostor.com
 2, dosxs.com
 2, dot.pub
@@ -44885,6 +44892,7 @@ routing = 1
 2, ftxgame.com
 2, ftxia.com
 2, ftxsoccer.com
+2, ftycloud.cn
 2, ftylw.com
 2, ftyun.com
 2, ftyzb.cn
@@ -49366,6 +49374,7 @@ routing = 1
 2, gqb0.com
 2, gqbmt.com
 2, gqcydj.com
+2, gqdangjian.cn
 2, gqegmkfck.com
 2, gqgkj.com
 2, gqjd.net
@@ -60148,6 +60157,8 @@ routing = 1
 2, huifenqi.com
 2, huifu.com
 2, huifudashi.com
+2, huifuemall.com
+2, huifuemall.net
 2, huifusihai.com
 2, huifutz.com
 2, huifuzhinan.com
@@ -62987,6 +62998,7 @@ routing = 1
 2, ifintechnews.com
 2, ifireeye.com
 2, ifireflygame.com
+2, ifiscnpc.com
 2, ifish7.com
 2, ifitbox.com
 2, ifjqq.com
@@ -69012,6 +69024,7 @@ routing = 1
 2, jmdedu.com
 2, jmdna.com
 2, jmdns.com
+2, jmdossen.com
 2, jmed.com
 2, jmeet.cn
 2, jmeii.com
@@ -72192,6 +72205,9 @@ routing = 1
 2, kdslife.com
 2, kdt.im
 2, kdtcdn.cn
+2, kdtmc.cn
+2, kdtmc.com
+2, kdtmc.net
 2, kdued.com
 2, kdweibo.cn
 2, kdweibo.com
@@ -73152,6 +73168,7 @@ routing = 1
 2, klpbbs.com
 2, klqcb.com
 2, klqy.com
+2, klszkj.com
 2, kltgt.com
 2, kltjn.com
 2, kltong.com
@@ -73567,6 +73584,7 @@ routing = 1
 2, kpbs-wowza.streamguys1.com
 2, kpbyd.com
 2, kpdhk.com
+2, kpdigiccy.com
 2, kpfans.com
 2, kpfcw.com
 2, kpgqs.com
@@ -74300,6 +74318,8 @@ routing = 1
 2, kunlunaq.com
 2, kunlunar.cn
 2, kunlunar.com
+2, kunlunbd.cn
+2, kunlunbd.com
 2, kunlunca.cn
 2, kunlunca.com
 2, kunluncan.com
@@ -74345,6 +74365,7 @@ routing = 1
 2, kunmingbc.com
 2, kunmingguolv.net
 2, kunmingkanghui.com
+2, kunpay.com
 2, kunpeng666888.com
 2, kunpengbx.cn
 2, kunpengbx.com
@@ -80632,6 +80653,7 @@ routing = 1
 2, manmeilp.com
 2, manmeng168.com
 2, manmu.net
+2, mannercoffee.com
 2, mannian.com
 2, manogk.com
 2, manongdao.com
@@ -84472,6 +84494,8 @@ routing = 1
 2, mssxapp.com
 2, mst-jc.com
 2, mstalk.cn
+2, mstand.cn
+2, mstandcoffee.com
 2, mstatik.com
 2, mstchina.com
 2, mstsyzdms.com
@@ -86912,34 +86936,6 @@ routing = 1
 2, niao95.com
 2, niaobulashi.com
 2, niaocms.com
-2, niaogebiji.com
-2, niaola.com
-2, niaoquan.fun
-2, niaosuangao.online
-2, niaowoclub.com
-2, niaoyun.cn
-2, niaoyun.com
-2, niaoyun.net
-2, niba.com
-2, nibaku.com
-2, nibomu.com
-2, nic.citic
-2, nic.icbc
-2, nic.ren
-2, nic.sohu
-2, nic.xin
-2, nicaicheng.com
-2, nicaifu.club
-2, nicaifu.cn
-2, nicaifu.com
-2, nicaifu.info
-2, nicaifu.net
-2, nice-app.com
-2, nice-china.com
-2, nice1688.com
-2, nicebing.com
-2, nicebooker.com
-2, nicecdn.com
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -97942,7 +97938,8 @@ routing = 1
 1, 2602:f486:f0::/48
 1, 2602:f70d::/36
 1, 2602:f7ee:ee::/48
-1, 2602:f919:a00::/40
+1, 2602:f919:a00::/39
+1, 2602:f919:d00::/40
 1, 2602:f919:fee::/47
 1, 2602:f92a:1300::/47
 1, 2602:f92a:1303::/48
@@ -98241,6 +98238,7 @@ routing = 1
 1, 2a06:de02:565::/48
 1, 2a06:de02:5a7::/48
 1, 2a06:de02:5f7::/48
+1, 2a06:de02:604::/48
 1, 2a06:de02:606::/48
 1, 2a06:de02:61f::/48
 1, 2a06:de02:631::/48
@@ -98252,6 +98250,7 @@ routing = 1
 1, 2a06:de02:648::/48
 1, 2a06:de02:650::/48
 1, 2a06:de02:66b::/48
+1, 2a06:de02:66f::/48
 1, 2a06:de02:673::/48
 1, 2a06:de02:70a::/48
 1, 2a06:de02:783::/48
@@ -98260,6 +98259,7 @@ routing = 1
 1, 2a06:de02:79c::/48
 1, 2a06:de02:7b0::/48
 1, 2a06:de02:7bc::/48
+1, 2a06:de02:7be::/48
 1, 2a06:de07:f800::/38
 1, 2a06:e881:3800::/44
 1, 2a07:54c1:2200::/40
