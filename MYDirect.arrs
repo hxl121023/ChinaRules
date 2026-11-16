@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-16
+# UPDATED: 2026-11-17
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -8361,6 +8361,7 @@ routing = 1
 2, 6an8.com
 2, 6api.net
 2, 6apt.com
+2, 6apzfdx.com
 2, 6arwu.cn
 2, 6aw.cc
 2, 6b1813f5210261.beer
@@ -11912,6 +11913,7 @@ routing = 1
 2, adfuns.com
 2, adg-dental.com
 2, adglim.com
+2, adgo.top
 2, adgomob.com
 2, adgooda.com
 2, adguardprivate.com
@@ -15618,6 +15620,7 @@ routing = 1
 2, aropteakv.com
 2, aroseks.com
 2, arowanahome.com
+2, aroychmdcl.cc
 2, arp.cn
 2, arpbox.com
 2, arpun.com
@@ -23017,6 +23020,7 @@ routing = 1
 2, capsuleshanghai.com
 2, captain-cro.com
 2, captainbi.com
+2, captive.apple.com
 2, capturetheflag.fun
 2, capuc.cn
 2, capvision.com
@@ -30501,6 +30505,7 @@ routing = 1
 2, conference.cn
 2, configuration.apple.com
 2, configuration.apple.com.akadns.net
+2, configuration.ls.apple.com
 2, confluxrpc.com
 2, confong.cn
 2, confong.net
@@ -50283,6 +50288,7 @@ routing = 1
 2, guazhuan.com
 2, guazi-apps.com
 2, guazi.com
+2, guazi.fun
 2, guazi.net
 2, guazipai.com
 2, guazistatic.com
@@ -62657,6 +62663,7 @@ routing = 1
 2, idazhe.net
 2, idbhost.com
 2, idc-icp.com
+2, idc.cash
 2, idc002.com
 2, idc021.com
 2, idc029.com
@@ -68728,6 +68735,7 @@ routing = 1
 2, jjweixin.com
 2, jjweixin.net
 2, jjweixin.org
+2, jjwer.com
 2, jjwifi.net
 2, jjwlcdn.com
 2, jjwli.com
@@ -70370,6 +70378,7 @@ routing = 1
 2, jtrobots.com
 2, jtso.net
 2, jtsp98.com
+2, jtti.cc
 2, jttv.net
 2, jttzsy.com
 2, jtucopai.cn
@@ -72387,6 +72396,7 @@ routing = 1
 2, kelehuyu.com
 2, keleqiu.com
 2, kelete.com
+2, kelexuexi.com
 2, keleyoupin.com
 2, keliangtek.com
 2, kelibiao.com
@@ -79486,6 +79496,7 @@ routing = 1
 2, lx1.cn
 2, lx138.com
 2, lx167.com
+2, lx51ib3szv.cc
 2, lx598.com
 2, lx688.com
 2, lxapk.com
@@ -82165,6 +82176,7 @@ routing = 1
 2, metong.com
 2, metools.info
 2, metritestscn.com
+2, metrix.bar
 2, metro-3d.com
 2, metroer.com
 2, metrofastpass.com
@@ -85427,6 +85439,7 @@ routing = 1
 2, mytaofun.com
 2, mytchain.com
 2, mytencentes.com
+2, mytentv.com
 2, mytesla.net
 2, myth.cool
 2, mythbird.com
@@ -86912,30 +86925,6 @@ routing = 1
 2, nhnexpo.com
 2, nhnst.com
 2, nhooo.com
-2, nhqts.com
-2, nhspd.com
-2, nhurl.cn
-2, nhwa-group.com
-2, nhygkj.com
-2, nhzb.com
-2, nhzhaopin.com
-2, nhzj.com
-2, nhzs.com
-2, ni8.com
-2, ni93.com
-2, nia-teams.com
-2, nianchu.net
-2, nianhuawan.com
-2, niankawang.com
-2, nianlingjisuanqi.com
-2, nianlun010.com
-2, nianqin.cc
-2, nianqin123.com
-2, nianshao.me
-2, niansir.com
-2, niao95.com
-2, niaobulashi.com
-2, niaocms.com
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -87013,6 +87002,7 @@ routing = 1
 0, 5.154.156.54/31
 0, 5.181.219.0/24
 0, 5.181.224.0/23
+0, 8.39.54.0/23
 0, 8.128.0.0/10
 0, 8.208.0.0/12
 0, 10.255.128.136/32
@@ -91847,11 +91837,13 @@ routing = 1
 0, 134.75.107.10/31
 0, 134.75.107.14/31
 0, 134.175.0.0/16
+0, 135.84.80.0/22
 0, 135.84.255.0/24
 0, 135.159.208.0/20
 0, 135.244.80.0/20
 0, 136.0.131.0/24
 0, 136.0.133.0/24
+0, 136.143.176.0/23
 0, 136.143.186.0/23
 0, 136.143.188.0/22
 0, 136.175.177.145/32
@@ -92422,8 +92414,11 @@ routing = 1
 0, 165.154.128.0/18
 0, 165.154.192.0/19
 0, 165.156.30.0/24
+0, 165.173.128.0/23
+0, 165.173.174.0/23
 0, 165.173.176.0/24
 0, 165.173.179.0/24
+0, 165.173.180.0/22
 0, 165.225.254.104/31
 0, 166.111.0.0/16
 0, 166.118.227.88/32
@@ -92746,6 +92741,7 @@ routing = 1
 0, 199.3.210.0/25
 0, 199.7.72.0/24
 0, 199.65.192.0/21
+0, 199.67.64.0/23
 0, 199.182.239.0/24
 0, 199.212.57.0/24
 0, 199.244.144.0/24
@@ -98240,6 +98236,7 @@ routing = 1
 1, 2a06:de02:5f7::/48
 1, 2a06:de02:604::/48
 1, 2a06:de02:606::/48
+1, 2a06:de02:619::/48
 1, 2a06:de02:61f::/48
 1, 2a06:de02:631::/48
 1, 2a06:de02:637::/48
@@ -98249,6 +98246,7 @@ routing = 1
 1, 2a06:de02:647::/48
 1, 2a06:de02:648::/48
 1, 2a06:de02:650::/48
+1, 2a06:de02:660::/48
 1, 2a06:de02:66b::/48
 1, 2a06:de02:66f::/48
 1, 2a06:de02:673::/48
@@ -98257,6 +98255,7 @@ routing = 1
 1, 2a06:de02:78d::/48
 1, 2a06:de02:795::/48
 1, 2a06:de02:79c::/48
+1, 2a06:de02:79f::/48
 1, 2a06:de02:7b0::/48
 1, 2a06:de02:7bc::/48
 1, 2a06:de02:7be::/48
@@ -99512,6 +99511,7 @@ routing = 1
 1, 2a0d:2581:1000::/39
 1, 2a0d:2581:1200::/40
 1, 2a0d:2581:1400::/40
+1, 2a0d:2581:fffc::/48
 1, 2a0d:2581:ffff::/48
 1, 2a0d:2587:3501::/48
 1, 2a0d:2587:3502::/48
