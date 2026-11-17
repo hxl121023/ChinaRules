@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-17
+# UPDATED: 2026-11-18
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -4196,6 +4196,7 @@ routing = 1
 2, 333ku.com
 2, 333rh.com
 2, 333wan.com
+2, 33442805.com
 2, 334433.xyz
 2, 3344u.com
 2, 334837632.xyz
@@ -4453,6 +4454,7 @@ routing = 1
 2, 360lj.com
 2, 360lnk.com
 2, 360loushi.com
+2, 360luxiang.com
 2, 360manhua.com
 2, 360medline.com
 2, 360midi.com
@@ -8084,6 +8086,7 @@ routing = 1
 2, 66168.net
 2, 6617.com
 2, 66173yx.com
+2, 66298845.com
 2, 662city.com
 2, 66301cc.com
 2, 6633102.com
@@ -8809,6 +8812,7 @@ routing = 1
 2, 7735.net
 2, 77390.com
 2, 7744wan.com
+2, 77505113.com
 2, 77521.com
 2, 77545.com
 2, 7755028.com
@@ -9633,6 +9637,7 @@ routing = 1
 2, 888win12.com
 2, 8890.com
 2, 8890tu.com
+2, 88923531.com
 2, 8896.com
 2, 88966.net
 2, 8899.net
@@ -15932,6 +15937,7 @@ routing = 1
 2, ataokeji.com
 2, atatech.org
 2, atats.shop
+2, ataw.top
 2, atb.so
 2, atbug.com
 2, atc-sh.com
@@ -18889,6 +18895,7 @@ routing = 1
 2, bfqqsg.com
 2, bfqtchayuan.com
 2, bfqzmyq.com
+2, bfr2.top
 2, bfsam.top
 2, bfscoc.com
 2, bfsea.xyz
@@ -36011,6 +36018,7 @@ routing = 1
 2, dingdingzhipin.cn
 2, dingdingzn.com
 2, dingdone.com
+2, dingdongbao.com
 2, dingdongcloud.com
 2, dingdongebusiness.com
 2, dingdongguyu.com
@@ -77630,6 +77638,7 @@ routing = 1
 2, litemob.vip
 2, litenews.cn
 2, liteng-industry.com
+2, litepan.top
 2, litepress.cn
 2, litessl.cn
 2, litessl.com
@@ -82238,6 +82247,7 @@ routing = 1
 2, mflady.com
 2, mflag.cn
 2, mfniu.com
+2, mfosunhani.com
 2, mfpad.com
 2, mfpay.net
 2, mfqqx.com
@@ -83606,6 +83616,7 @@ routing = 1
 2, mobartsgame.com
 2, mobawan.com
 2, mobayx.com
+2, mobbananagame.com
 2, mobby.cn
 2, mobcb.com
 2, mobcells.com
@@ -86907,24 +86918,6 @@ routing = 1
 2, nhaidu.net
 2, nhcec.com
 2, nhcilab.com
-2, nhcsw.com
-2, nhd-mart.com
-2, nhdia.com
-2, nhdmd.com
-2, nhfyyy.com
-2, nhganggeban.com
-2, nhgkb.top
-2, nhhongyi.com
-2, nhjdixj.com
-2, nhjjlt.com
-2, nhkaiyang.com
-2, nhkeysu.com
-2, nhlink.cn
-2, nhlq.com
-2, nhmuni.com
-2, nhnexpo.com
-2, nhnst.com
-2, nhooo.com
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -97931,6 +97924,7 @@ routing = 1
 1, 2602:2e0:ff::/48
 1, 2602:814:f006::/48
 1, 2602:f2dc:aa::/48
+1, 2602:f32a:30::/44
 1, 2602:f486:f0::/48
 1, 2602:f70d::/36
 1, 2602:f7ee:ee::/48
@@ -97973,6 +97967,7 @@ routing = 1
 1, 2602:fb08:2::/48
 1, 2602:fbda:600::/48
 1, 2602:fbda:610::/48
+1, 2602:fbda:620::/48
 1, 2602:fbda:660::/44
 1, 2602:fd92:b00:62::/64
 1, 2602:fd92:b00:75::/64
@@ -98236,6 +98231,7 @@ routing = 1
 1, 2a06:de02:5f7::/48
 1, 2a06:de02:604::/48
 1, 2a06:de02:606::/48
+1, 2a06:de02:613::/48
 1, 2a06:de02:619::/48
 1, 2a06:de02:61f::/48
 1, 2a06:de02:631::/48
@@ -98246,6 +98242,7 @@ routing = 1
 1, 2a06:de02:647::/48
 1, 2a06:de02:648::/48
 1, 2a06:de02:650::/48
+1, 2a06:de02:655::/48
 1, 2a06:de02:660::/48
 1, 2a06:de02:66b::/48
 1, 2a06:de02:66f::/48
@@ -98254,6 +98251,7 @@ routing = 1
 1, 2a06:de02:783::/48
 1, 2a06:de02:78d::/48
 1, 2a06:de02:795::/48
+1, 2a06:de02:799::/48
 1, 2a06:de02:79c::/48
 1, 2a06:de02:79f::/48
 1, 2a06:de02:7b0::/48
@@ -99571,6 +99569,7 @@ routing = 1
 1, 2a0e:aa07:e039::/48
 1, 2a0e:aa07:e051::/48
 1, 2a0e:aa07:e052::/48
+1, 2a0e:aa07:e0e0::/44
 1, 2a0e:aa07:e0f1::/48
 1, 2a0e:aa07:e0f7::/48
 1, 2a0e:aa07:e151::/48
@@ -99990,6 +99989,7 @@ routing = 1
 1, 2a14:7586:6106::/48
 1, 2a14:7586:6108::/48
 1, 2a14:7586:6110::/48
+1, 2a14:7586:6113::/48
 1, 2a14:7586:6115::/48
 1, 2a14:7586:6500::/48
 1, 2a14:7dc0:510::/47

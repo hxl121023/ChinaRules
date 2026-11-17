@@ -1,8 +1,8 @@
 # NAME: MY🐲Direct (Surge)
 # GENERATED-FOR: Surge RULE-SET
 # SOURCE: ChinaRules MYDirect.arrs + MYDirect2.arrs
-# UPDATED: 2026-11-17
-# RULES: 156970
+# UPDATED: 2026-11-18
+# RULES: 156995
 DOMAIN-KEYWORD,381209
 DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,00.net
@@ -4190,6 +4190,7 @@ DOMAIN-SUFFIX,333job.com
 DOMAIN-SUFFIX,333ku.com
 DOMAIN-SUFFIX,333rh.com
 DOMAIN-SUFFIX,333wan.com
+DOMAIN-SUFFIX,33442805.com
 DOMAIN-SUFFIX,334433.xyz
 DOMAIN-SUFFIX,3344u.com
 DOMAIN-SUFFIX,334837632.xyz
@@ -4447,6 +4448,7 @@ DOMAIN-SUFFIX,360lion.com
 DOMAIN-SUFFIX,360lj.com
 DOMAIN-SUFFIX,360lnk.com
 DOMAIN-SUFFIX,360loushi.com
+DOMAIN-SUFFIX,360luxiang.com
 DOMAIN-SUFFIX,360manhua.com
 DOMAIN-SUFFIX,360medline.com
 DOMAIN-SUFFIX,360midi.com
@@ -8078,6 +8080,7 @@ DOMAIN-SUFFIX,66152.com
 DOMAIN-SUFFIX,66168.net
 DOMAIN-SUFFIX,6617.com
 DOMAIN-SUFFIX,66173yx.com
+DOMAIN-SUFFIX,66298845.com
 DOMAIN-SUFFIX,662city.com
 DOMAIN-SUFFIX,66301cc.com
 DOMAIN-SUFFIX,6633102.com
@@ -8803,6 +8806,7 @@ DOMAIN-SUFFIX,7733728.com
 DOMAIN-SUFFIX,7735.net
 DOMAIN-SUFFIX,77390.com
 DOMAIN-SUFFIX,7744wan.com
+DOMAIN-SUFFIX,77505113.com
 DOMAIN-SUFFIX,77521.com
 DOMAIN-SUFFIX,77545.com
 DOMAIN-SUFFIX,7755028.com
@@ -9627,6 +9631,7 @@ DOMAIN-SUFFIX,888twt.com
 DOMAIN-SUFFIX,888win12.com
 DOMAIN-SUFFIX,8890.com
 DOMAIN-SUFFIX,8890tu.com
+DOMAIN-SUFFIX,88923531.com
 DOMAIN-SUFFIX,8896.com
 DOMAIN-SUFFIX,88966.net
 DOMAIN-SUFFIX,8899.net
@@ -15926,6 +15931,7 @@ DOMAIN-SUFFIX,atanyu.com
 DOMAIN-SUFFIX,ataokeji.com
 DOMAIN-SUFFIX,atatech.org
 DOMAIN-SUFFIX,atats.shop
+DOMAIN-SUFFIX,ataw.top
 DOMAIN-SUFFIX,atb.so
 DOMAIN-SUFFIX,atbug.com
 DOMAIN-SUFFIX,atc-sh.com
@@ -18883,6 +18889,7 @@ DOMAIN-SUFFIX,bfqifu.com
 DOMAIN-SUFFIX,bfqqsg.com
 DOMAIN-SUFFIX,bfqtchayuan.com
 DOMAIN-SUFFIX,bfqzmyq.com
+DOMAIN-SUFFIX,bfr2.top
 DOMAIN-SUFFIX,bfsam.top
 DOMAIN-SUFFIX,bfscoc.com
 DOMAIN-SUFFIX,bfsea.xyz
@@ -36005,6 +36012,7 @@ DOMAIN-SUFFIX,dingdingzhaopin.com
 DOMAIN-SUFFIX,dingdingzhipin.cn
 DOMAIN-SUFFIX,dingdingzn.com
 DOMAIN-SUFFIX,dingdone.com
+DOMAIN-SUFFIX,dingdongbao.com
 DOMAIN-SUFFIX,dingdongcloud.com
 DOMAIN-SUFFIX,dingdongebusiness.com
 DOMAIN-SUFFIX,dingdongguyu.com
@@ -77624,6 +77632,7 @@ DOMAIN-SUFFIX,litemob.net
 DOMAIN-SUFFIX,litemob.vip
 DOMAIN-SUFFIX,litenews.cn
 DOMAIN-SUFFIX,liteng-industry.com
+DOMAIN-SUFFIX,litepan.top
 DOMAIN-SUFFIX,litepress.cn
 DOMAIN-SUFFIX,litessl.cn
 DOMAIN-SUFFIX,litessl.com
@@ -82232,6 +82241,7 @@ DOMAIN-SUFFIX,mfk.com
 DOMAIN-SUFFIX,mflady.com
 DOMAIN-SUFFIX,mflag.cn
 DOMAIN-SUFFIX,mfniu.com
+DOMAIN-SUFFIX,mfosunhani.com
 DOMAIN-SUFFIX,mfpad.com
 DOMAIN-SUFFIX,mfpay.net
 DOMAIN-SUFFIX,mfqqx.com
@@ -83600,6 +83610,7 @@ DOMAIN-SUFFIX,mobaoo.net
 DOMAIN-SUFFIX,mobartsgame.com
 DOMAIN-SUFFIX,mobawan.com
 DOMAIN-SUFFIX,mobayx.com
+DOMAIN-SUFFIX,mobbananagame.com
 DOMAIN-SUFFIX,mobby.cn
 DOMAIN-SUFFIX,mobcb.com
 DOMAIN-SUFFIX,mobcells.com
@@ -89199,6 +89210,7 @@ DOMAIN-SUFFIX,oeleads.cn
 DOMAIN-SUFFIX,oeleads.com
 DOMAIN-SUFFIX,oelove.com
 DOMAIN-SUFFIX,oemao.com
+DOMAIN-SUFFIX,oemdss.com
 DOMAIN-SUFFIX,oemhouse.com
 DOMAIN-SUFFIX,oemnew.com
 DOMAIN-SUFFIX,oempromo.com
@@ -91768,6 +91780,7 @@ DOMAIN-SUFFIX,phb01.com
 DOMAIN-SUFFIX,phb123.com
 DOMAIN-SUFFIX,pheagee.com
 DOMAIN-SUFFIX,phedu.net
+DOMAIN-SUFFIX,pheicloud.com
 DOMAIN-SUFFIX,phemu.net
 DOMAIN-SUFFIX,phenom-sem.com
 DOMAIN-SUFFIX,phet.fan
@@ -113140,6 +113153,7 @@ DOMAIN-SUFFIX,thewhitedragons.com
 DOMAIN-SUFFIX,theworld.cn
 DOMAIN-SUFFIX,thewowa.com
 DOMAIN-SUFFIX,thexnode.com
+DOMAIN-SUFFIX,theyojoy.com
 DOMAIN-SUFFIX,theytree.com
 DOMAIN-SUFFIX,thezhishu.com
 DOMAIN-SUFFIX,thfdc.net
@@ -117006,6 +117020,7 @@ DOMAIN-SUFFIX,u65vgmpy3pz9f.com
 DOMAIN-SUFFIX,u69cn.com
 DOMAIN-SUFFIX,u6ex.com
 DOMAIN-SUFFIX,u72.net
+DOMAIN-SUFFIX,u77.games
 DOMAIN-SUFFIX,u78785.com
 DOMAIN-SUFFIX,u7u9.com
 DOMAIN-SUFFIX,u7x.cn
@@ -123746,6 +123761,7 @@ DOMAIN-SUFFIX,wobocn.com
 DOMAIN-SUFFIX,wobwxe.com
 DOMAIN-SUFFIX,woc.space
 DOMAIN-SUFFIX,woc88.com
+DOMAIN-SUFFIX,woca.fun
 DOMAIN-SUFFIX,wocdn.net
 DOMAIN-SUFFIX,wochacha.cn
 DOMAIN-SUFFIX,wochacha.com
@@ -134838,6 +134854,8 @@ DOMAIN-SUFFIX,yohui.com
 DOMAIN-SUFFIX,yohuu.com
 DOMAIN-SUFFIX,yojcool.com
 DOMAIN-SUFFIX,yojochina.com
+DOMAIN-SUFFIX,yojoy.mobi
+DOMAIN-SUFFIX,yojoy.vip
 DOMAIN-SUFFIX,yoju360.com
 DOMAIN-SUFFIX,yoju360.net
 DOMAIN-SUFFIX,yoka.com
@@ -154896,6 +154914,7 @@ IP-CIDR6,2602:2a9:d10::/44,no-resolve
 IP-CIDR6,2602:2e0:ff::/48,no-resolve
 IP-CIDR6,2602:814:f006::/48,no-resolve
 IP-CIDR6,2602:f2dc:aa::/48,no-resolve
+IP-CIDR6,2602:f32a:30::/44,no-resolve
 IP-CIDR6,2602:f486:f0::/48,no-resolve
 IP-CIDR6,2602:f70d::/36,no-resolve
 IP-CIDR6,2602:f7ee:ee::/48,no-resolve
@@ -154938,6 +154957,7 @@ IP-CIDR6,2602:fb08::/48,no-resolve
 IP-CIDR6,2602:fb08:2::/48,no-resolve
 IP-CIDR6,2602:fbda:600::/48,no-resolve
 IP-CIDR6,2602:fbda:610::/48,no-resolve
+IP-CIDR6,2602:fbda:620::/48,no-resolve
 IP-CIDR6,2602:fbda:660::/44,no-resolve
 IP-CIDR6,2602:fd92:b00:62::/64,no-resolve
 IP-CIDR6,2602:fd92:b00:75::/64,no-resolve
@@ -155201,6 +155221,7 @@ IP-CIDR6,2a06:de02:5a7::/48,no-resolve
 IP-CIDR6,2a06:de02:5f7::/48,no-resolve
 IP-CIDR6,2a06:de02:604::/48,no-resolve
 IP-CIDR6,2a06:de02:606::/48,no-resolve
+IP-CIDR6,2a06:de02:613::/48,no-resolve
 IP-CIDR6,2a06:de02:619::/48,no-resolve
 IP-CIDR6,2a06:de02:61f::/48,no-resolve
 IP-CIDR6,2a06:de02:631::/48,no-resolve
@@ -155211,6 +155232,7 @@ IP-CIDR6,2a06:de02:643::/48,no-resolve
 IP-CIDR6,2a06:de02:647::/48,no-resolve
 IP-CIDR6,2a06:de02:648::/48,no-resolve
 IP-CIDR6,2a06:de02:650::/48,no-resolve
+IP-CIDR6,2a06:de02:655::/48,no-resolve
 IP-CIDR6,2a06:de02:660::/48,no-resolve
 IP-CIDR6,2a06:de02:66b::/48,no-resolve
 IP-CIDR6,2a06:de02:66f::/48,no-resolve
@@ -155219,6 +155241,7 @@ IP-CIDR6,2a06:de02:70a::/48,no-resolve
 IP-CIDR6,2a06:de02:783::/48,no-resolve
 IP-CIDR6,2a06:de02:78d::/48,no-resolve
 IP-CIDR6,2a06:de02:795::/48,no-resolve
+IP-CIDR6,2a06:de02:799::/48,no-resolve
 IP-CIDR6,2a06:de02:79c::/48,no-resolve
 IP-CIDR6,2a06:de02:79f::/48,no-resolve
 IP-CIDR6,2a06:de02:7b0::/48,no-resolve
@@ -156536,6 +156559,7 @@ IP-CIDR6,2a0e:aa07:e035::/48,no-resolve
 IP-CIDR6,2a0e:aa07:e039::/48,no-resolve
 IP-CIDR6,2a0e:aa07:e051::/48,no-resolve
 IP-CIDR6,2a0e:aa07:e052::/48,no-resolve
+IP-CIDR6,2a0e:aa07:e0e0::/44,no-resolve
 IP-CIDR6,2a0e:aa07:e0f1::/48,no-resolve
 IP-CIDR6,2a0e:aa07:e0f7::/48,no-resolve
 IP-CIDR6,2a0e:aa07:e151::/48,no-resolve
@@ -156955,6 +156979,7 @@ IP-CIDR6,2a14:7586:6104::/48,no-resolve
 IP-CIDR6,2a14:7586:6106::/48,no-resolve
 IP-CIDR6,2a14:7586:6108::/48,no-resolve
 IP-CIDR6,2a14:7586:6110::/48,no-resolve
+IP-CIDR6,2a14:7586:6113::/48,no-resolve
 IP-CIDR6,2a14:7586:6115::/48,no-resolve
 IP-CIDR6,2a14:7586:6500::/48,no-resolve
 IP-CIDR6,2a14:7dc0:510::/47,no-resolve
