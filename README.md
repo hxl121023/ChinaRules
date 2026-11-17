@@ -15,24 +15,24 @@
 | MYDirect2.arrs | 56971 | 其余域名后缀 |
 
 ```
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.arrs
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect2.arrs
+https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect.arrs
+https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect2.arrs
 ```
 
 域名规则与 IP 规则可以混在同一个规则集里（官方文档示例即混排），拆分纯粹因为条数上限。
 
 ## 广告拦截版（.arrs，拒绝连接）
 
-规则集名为 **MY🐲Block**，共 **178125 条**域名后缀，动作是拒绝连接（routing = 2）。来源：HaGeZi Light、OISD Small、EasyPrivacy、anti-AD（含中文广告与追踪域名），并集后按后缀去冗余。同样拆成两个文件，**两个都要订阅**：
+规则集名为 **MY🐲Block**，共 **178534 条**域名后缀，动作是拒绝连接（routing = 2）。来源：HaGeZi Light、OISD Small、EasyPrivacy、anti-AD（含中文广告与追踪域名），并集后按后缀去冗余。同样拆成两个文件，**两个都要订阅**：
 
 | 文件 | 条数 | 内容 |
 |---|---|---|
 | MYBlock.arrs | 99999 | 域名后缀前段 |
-| MYBlock2.arrs | 78126 | 域名后缀后段 |
+| MYBlock2.arrs | 78535 | 域名后缀后段 |
 
 ```
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock.arrs
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock2.arrs
+https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYBlock.arrs
+https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYBlock2.arrs
 ```
 
 与直连集重叠的域名多为国内广告域名：在 Anywhere 的路由列表里把 MY🐲Block 两个集拖到 MY🐲Direct 上面，冲突时拦截优先。
@@ -42,7 +42,21 @@ https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock2.arrs
 **MYDirect.yaml** —— 同一份规则的 Clash 格式，单文件全集（Clash 没有 10 万条上限）：
 
 ```
-https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.yaml
+https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect.yaml
+```
+
+## Surge 版（.list）
+
+**MYDirect.list** —— 同一份规则的 Surge RULE-SET 格式，单文件全集（Surge 6.0+ 没有条数上限），在配置 `[Rule]` 里引用：
+
+```
+RULE-SET,https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect.list,DIRECT,no-resolve,update-interval=86400
+```
+
+**MYBlock.list** —— 拦截集的 Surge 版，同样单文件全集，引用行放直连集之前，冲突时拦截优先：
+
+```
+RULE-SET,https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYBlock.list,REJECT
 ```
 
 ## 数据来源
