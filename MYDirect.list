@@ -1,8 +1,8 @@
 # NAME: MY🐲Direct (Surge)
 # GENERATED-FOR: Surge RULE-SET
 # SOURCE: ChinaRules MYDirect.arrs + MYDirect2.arrs
-# UPDATED: 2026-11-18
-# RULES: 156995
+# UPDATED: 2026-11-19
+# RULES: 157022
 DOMAIN-KEYWORD,381209
 DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,00.net
@@ -28276,6 +28276,7 @@ DOMAIN-SUFFIX,clady.cc
 DOMAIN-SUFFIX,clady.cn
 DOMAIN-SUFFIX,claiks.com
 DOMAIN-SUFFIX,claim.cn
+DOMAIN-SUFFIX,claisly.com
 DOMAIN-SUFFIX,clam-itc.com
 DOMAIN-SUFFIX,clamc.com
 DOMAIN-SUFFIX,clamptek.com
@@ -51946,6 +51947,7 @@ DOMAIN-SUFFIX,gxqiyuan.com
 DOMAIN-SUFFIX,gxqkcm.com
 DOMAIN-SUFFIX,gxqljt.com
 DOMAIN-SUFFIX,gxqllc.com
+DOMAIN-SUFFIX,gxqmeiwujun.com
 DOMAIN-SUFFIX,gxqmk.com
 DOMAIN-SUFFIX,gxqnjc.com
 DOMAIN-SUFFIX,gxqqxcl.com
@@ -64955,6 +64957,7 @@ DOMAIN-SUFFIX,isay365.hk
 DOMAIN-SUFFIX,isay365.net
 DOMAIN-SUFFIX,isay365.org
 DOMAIN-SUFFIX,isayabc.com
+DOMAIN-SUFFIX,isbestgame.com
 DOMAIN-SUFFIX,iscanchina.com
 DOMAIN-SUFFIX,ischangya.com
 DOMAIN-SUFFIX,iscrv.com
@@ -82244,6 +82247,7 @@ DOMAIN-SUFFIX,mfniu.com
 DOMAIN-SUFFIX,mfosunhani.com
 DOMAIN-SUFFIX,mfpad.com
 DOMAIN-SUFFIX,mfpay.net
+DOMAIN-SUFFIX,mfpt8g.com
 DOMAIN-SUFFIX,mfqqx.com
 DOMAIN-SUFFIX,mfqyw.com
 DOMAIN-SUFFIX,mfread.cn
@@ -82803,6 +82807,7 @@ DOMAIN-SUFFIX,mikudns.com
 DOMAIN-SUFFIX,mikuhost.net
 DOMAIN-SUFFIX,mikuio.com
 DOMAIN-SUFFIX,mikumikumi.xyz
+DOMAIN-SUFFIX,mikus.ink
 DOMAIN-SUFFIX,mil.cn
 DOMAIN-SUFFIX,milan.com
 DOMAIN-SUFFIX,milano.cn
@@ -109439,6 +109444,7 @@ DOMAIN-SUFFIX,sxjant.com
 DOMAIN-SUFFIX,sxjbswyy.com
 DOMAIN-SUFFIX,sxjcdyy.com
 DOMAIN-SUFFIX,sxjd-cn.com
+DOMAIN-SUFFIX,sxjd.ink
 DOMAIN-SUFFIX,sxjdfreight.com
 DOMAIN-SUFFIX,sxjdpm.com
 DOMAIN-SUFFIX,sxjfloor.com
@@ -119306,6 +119312,7 @@ DOMAIN-SUFFIX,visahuanqiu.com
 DOMAIN-SUFFIX,visajx.com
 DOMAIN-SUFFIX,visanc.com
 DOMAIN-SUFFIX,visas.to
+DOMAIN-SUFFIX,visaselectrewardhk.com
 DOMAIN-SUFFIX,visasoo.com
 DOMAIN-SUFFIX,visaun.com
 DOMAIN-SUFFIX,visbodyfit.com
@@ -122443,6 +122450,7 @@ DOMAIN-SUFFIX,wgc2025.com
 DOMAIN-SUFFIX,wgce.space
 DOMAIN-SUFFIX,wgd8h.com
 DOMAIN-SUFFIX,wgekydpm.com
+DOMAIN-SUFFIX,wget.la
 DOMAIN-SUFFIX,wgevytdrg.com
 DOMAIN-SUFFIX,wgezptpzo.com
 DOMAIN-SUFFIX,wggames.cn
@@ -123245,6 +123253,7 @@ DOMAIN-SUFFIX,winzonelaw.com
 DOMAIN-SUFFIX,wio2o.com
 DOMAIN-SUFFIX,wiot.host
 DOMAIN-SUFFIX,wipanda.com
+DOMAIN-SUFFIX,wirefee.site
 DOMAIN-SUFFIX,wireless-driver.com
 DOMAIN-SUFFIX,wireless-intelligence.com
 DOMAIN-SUFFIX,wireless-tag.com
@@ -125383,6 +125392,7 @@ DOMAIN-SUFFIX,wyshuoshuo.com
 DOMAIN-SUFFIX,wysls.com
 DOMAIN-SUFFIX,wysm88.com
 DOMAIN-SUFFIX,wyspczrdz.com
+DOMAIN-SUFFIX,wyswgb.com
 DOMAIN-SUFFIX,wyteam.net
 DOMAIN-SUFFIX,wytmetfk.com
 DOMAIN-SUFFIX,wytracir.com
@@ -132969,6 +132979,7 @@ DOMAIN-SUFFIX,ygcqmgegs.com
 DOMAIN-SUFFIX,ygct.com
 DOMAIN-SUFFIX,ygcx.top
 DOMAIN-SUFFIX,ygdatabase.com
+DOMAIN-SUFFIX,ygdj17.com
 DOMAIN-SUFFIX,ygdl.com
 DOMAIN-SUFFIX,ygduoyi.com
 DOMAIN-SUFFIX,yge.me
@@ -142711,6 +142722,7 @@ DOMAIN-SUFFIX,zscjjt.com
 DOMAIN-SUFFIX,zscollege.com
 DOMAIN-SUFFIX,zsctgroup.com
 DOMAIN-SUFFIX,zsd.name
+DOMAIN-SUFFIX,zsdc.eu.org
 DOMAIN-SUFFIX,zsdianlan.com
 DOMAIN-SUFFIX,zsdlw.com
 DOMAIN-SUFFIX,zsdown.com
@@ -155007,6 +155019,7 @@ IP-CIDR6,2607:740:18::/48,no-resolve
 IP-CIDR6,2607:6b80:69::/48,no-resolve
 IP-CIDR6,2610:a1:3074::/46,no-resolve
 IP-CIDR6,2610:a1:3078::/46,no-resolve
+IP-CIDR6,2620:57:4004::/47,no-resolve
 IP-CIDR6,2620:171:32::/48,no-resolve
 IP-CIDR6,2620:171:5a:f0::/64,no-resolve
 IP-CIDR6,2620:171:fb::/48,no-resolve
@@ -155224,6 +155237,7 @@ IP-CIDR6,2a06:de02:606::/48,no-resolve
 IP-CIDR6,2a06:de02:613::/48,no-resolve
 IP-CIDR6,2a06:de02:619::/48,no-resolve
 IP-CIDR6,2a06:de02:61f::/48,no-resolve
+IP-CIDR6,2a06:de02:625::/48,no-resolve
 IP-CIDR6,2a06:de02:631::/48,no-resolve
 IP-CIDR6,2a06:de02:637::/48,no-resolve
 IP-CIDR6,2a06:de02:639::/48,no-resolve
@@ -155233,18 +155247,28 @@ IP-CIDR6,2a06:de02:647::/48,no-resolve
 IP-CIDR6,2a06:de02:648::/48,no-resolve
 IP-CIDR6,2a06:de02:650::/48,no-resolve
 IP-CIDR6,2a06:de02:655::/48,no-resolve
+IP-CIDR6,2a06:de02:65a::/48,no-resolve
+IP-CIDR6,2a06:de02:65c::/48,no-resolve
 IP-CIDR6,2a06:de02:660::/48,no-resolve
+IP-CIDR6,2a06:de02:664::/48,no-resolve
 IP-CIDR6,2a06:de02:66b::/48,no-resolve
+IP-CIDR6,2a06:de02:66c::/48,no-resolve
 IP-CIDR6,2a06:de02:66f::/48,no-resolve
 IP-CIDR6,2a06:de02:673::/48,no-resolve
+IP-CIDR6,2a06:de02:676::/48,no-resolve
+IP-CIDR6,2a06:de02:67a::/48,no-resolve
 IP-CIDR6,2a06:de02:70a::/48,no-resolve
 IP-CIDR6,2a06:de02:783::/48,no-resolve
 IP-CIDR6,2a06:de02:78d::/48,no-resolve
-IP-CIDR6,2a06:de02:795::/48,no-resolve
+IP-CIDR6,2a06:de02:794::/47,no-resolve
 IP-CIDR6,2a06:de02:799::/48,no-resolve
+IP-CIDR6,2a06:de02:79b::/48,no-resolve
 IP-CIDR6,2a06:de02:79c::/48,no-resolve
 IP-CIDR6,2a06:de02:79f::/48,no-resolve
-IP-CIDR6,2a06:de02:7b0::/48,no-resolve
+IP-CIDR6,2a06:de02:7a4::/48,no-resolve
+IP-CIDR6,2a06:de02:7ab::/48,no-resolve
+IP-CIDR6,2a06:de02:7ae::/48,no-resolve
+IP-CIDR6,2a06:de02:7b0::/47,no-resolve
 IP-CIDR6,2a06:de02:7bc::/48,no-resolve
 IP-CIDR6,2a06:de02:7be::/48,no-resolve
 IP-CIDR6,2a06:de07:f800::/38,no-resolve
@@ -156368,6 +156392,7 @@ IP-CIDR6,2a0a:6040:2277::/48,no-resolve
 IP-CIDR6,2a0a:6040:5555::/48,no-resolve
 IP-CIDR6,2a0a:6040:6c40::/44,no-resolve
 IP-CIDR6,2a0a:6040:b755::/48,no-resolve
+IP-CIDR6,2a0a:6040:b766::/48,no-resolve
 IP-CIDR6,2a0a:6040:b770::/44,no-resolve
 IP-CIDR6,2a0a:6040:c601::/48,no-resolve
 IP-CIDR6,2a0a:6040:c700::/42,no-resolve
@@ -156675,6 +156700,7 @@ IP-CIDR6,2a0f:1cc5:2810::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:3203::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:3210::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:3222::/48,no-resolve
+IP-CIDR6,2a0f:1cc5:3500::/40,no-resolve
 IP-CIDR6,2a0f:1cc5:3700::/43,no-resolve
 IP-CIDR6,2a0f:1cc5:3720::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:4300::/40,no-resolve
@@ -156820,6 +156846,7 @@ IP-CIDR6,2a12:dd47:db2c::/48,no-resolve
 IP-CIDR6,2a12:f8c3::/36,no-resolve
 IP-CIDR6,2a13:cc3:c000::/34,no-resolve
 IP-CIDR6,2a13:1800::/29,no-resolve
+IP-CIDR6,2a13:7100::/29,no-resolve
 IP-CIDR6,2a13:8b40::/29,no-resolve
 IP-CIDR6,2a13:9500:194::/48,no-resolve
 IP-CIDR6,2a13:a5c3:d600::/42,no-resolve

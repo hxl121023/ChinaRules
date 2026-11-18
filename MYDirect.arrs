@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-18
+# UPDATED: 2026-11-19
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -28282,6 +28282,7 @@ routing = 1
 2, clady.cn
 2, claiks.com
 2, claim.cn
+2, claisly.com
 2, clam-itc.com
 2, clamc.com
 2, clamptek.com
@@ -51952,6 +51953,7 @@ routing = 1
 2, gxqkcm.com
 2, gxqljt.com
 2, gxqllc.com
+2, gxqmeiwujun.com
 2, gxqmk.com
 2, gxqnjc.com
 2, gxqqxcl.com
@@ -64961,6 +64963,7 @@ routing = 1
 2, isay365.net
 2, isay365.org
 2, isayabc.com
+2, isbestgame.com
 2, iscanchina.com
 2, ischangya.com
 2, iscrv.com
@@ -82250,6 +82253,7 @@ routing = 1
 2, mfosunhani.com
 2, mfpad.com
 2, mfpay.net
+2, mfpt8g.com
 2, mfqqx.com
 2, mfqyw.com
 2, mfread.cn
@@ -82809,6 +82813,7 @@ routing = 1
 2, mikuhost.net
 2, mikuio.com
 2, mikumikumi.xyz
+2, mikus.ink
 2, mil.cn
 2, milan.com
 2, milano.cn
@@ -86898,26 +86903,6 @@ routing = 1
 2, ngo.com
 2, ngotcmszh.com
 2, ngqtlglb.info
-2, ngread.com
-2, ngrok.cc
-2, ngs1685.com
-2, ngstc.top
-2, ngswgs.com
-2, ngtravelercn.com
-2, ngty556.com
-2, ngurnf.com
-2, ngwxw.com
-2, ngxn.com
-2, ngxtt.cn
-2, ngzyxx.com
-2, nh.com
-2, nh2h.com
-2, nh56.com
-2, nhaidu.cn
-2, nhaidu.com
-2, nhaidu.net
-2, nhcec.com
-2, nhcilab.com
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -98017,6 +98002,7 @@ routing = 1
 1, 2607:6b80:69::/48
 1, 2610:a1:3074::/46
 1, 2610:a1:3078::/46
+1, 2620:57:4004::/47
 1, 2620:171:32::/48
 1, 2620:171:5a:f0::/64
 1, 2620:171:fb::/48
@@ -98234,6 +98220,7 @@ routing = 1
 1, 2a06:de02:613::/48
 1, 2a06:de02:619::/48
 1, 2a06:de02:61f::/48
+1, 2a06:de02:625::/48
 1, 2a06:de02:631::/48
 1, 2a06:de02:637::/48
 1, 2a06:de02:639::/48
@@ -98243,18 +98230,28 @@ routing = 1
 1, 2a06:de02:648::/48
 1, 2a06:de02:650::/48
 1, 2a06:de02:655::/48
+1, 2a06:de02:65a::/48
+1, 2a06:de02:65c::/48
 1, 2a06:de02:660::/48
+1, 2a06:de02:664::/48
 1, 2a06:de02:66b::/48
+1, 2a06:de02:66c::/48
 1, 2a06:de02:66f::/48
 1, 2a06:de02:673::/48
+1, 2a06:de02:676::/48
+1, 2a06:de02:67a::/48
 1, 2a06:de02:70a::/48
 1, 2a06:de02:783::/48
 1, 2a06:de02:78d::/48
-1, 2a06:de02:795::/48
+1, 2a06:de02:794::/47
 1, 2a06:de02:799::/48
+1, 2a06:de02:79b::/48
 1, 2a06:de02:79c::/48
 1, 2a06:de02:79f::/48
-1, 2a06:de02:7b0::/48
+1, 2a06:de02:7a4::/48
+1, 2a06:de02:7ab::/48
+1, 2a06:de02:7ae::/48
+1, 2a06:de02:7b0::/47
 1, 2a06:de02:7bc::/48
 1, 2a06:de02:7be::/48
 1, 2a06:de07:f800::/38
@@ -99378,6 +99375,7 @@ routing = 1
 1, 2a0a:6040:5555::/48
 1, 2a0a:6040:6c40::/44
 1, 2a0a:6040:b755::/48
+1, 2a0a:6040:b766::/48
 1, 2a0a:6040:b770::/44
 1, 2a0a:6040:c601::/48
 1, 2a0a:6040:c700::/42
@@ -99685,6 +99683,7 @@ routing = 1
 1, 2a0f:1cc5:3203::/48
 1, 2a0f:1cc5:3210::/44
 1, 2a0f:1cc5:3222::/48
+1, 2a0f:1cc5:3500::/40
 1, 2a0f:1cc5:3700::/43
 1, 2a0f:1cc5:3720::/48
 1, 2a0f:1cc5:4300::/40
@@ -99830,6 +99829,7 @@ routing = 1
 1, 2a12:f8c3::/36
 1, 2a13:cc3:c000::/34
 1, 2a13:1800::/29
+1, 2a13:7100::/29
 1, 2a13:8b40::/29
 1, 2a13:9500:194::/48
 1, 2a13:a5c3:d600::/42
