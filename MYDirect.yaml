@@ -1,12 +1,12 @@
 # NAME: MY🐲Direct
 # AUTHOR: hxl121023
 # REPO: https://github.com/hxl121023/ChinaRules
-# UPDATED: 2026-11-19
-# DOMAIN-SUFFIX: 143916
+# UPDATED: 2026-11-20
+# DOMAIN-SUFFIX: 143922
 # IP-CIDR: 8442
-# IP-CIDR6: 4663
+# IP-CIDR6: 4664
 # DOMAIN-KEYWORD: 1
-# TOTAL: 157022
+# TOTAL: 157029
 payload:
   - DOMAIN-KEYWORD,381209
   - DOMAIN-SUFFIX,0.zone
@@ -71949,6 +71949,7 @@ payload:
   - DOMAIN-SUFFIX,kantsuu.com
   - DOMAIN-SUFFIX,kantu.com
   - DOMAIN-SUFFIX,kantuccy.com
+  - DOMAIN-SUFFIX,kanv7k.live
   - DOMAIN-SUFFIX,kanwuye.com
   - DOMAIN-SUFFIX,kanwz.net
   - DOMAIN-SUFFIX,kanxiquan.com
@@ -75971,6 +75972,7 @@ payload:
   - DOMAIN-SUFFIX,lefeng.com
   - DOMAIN-SUFFIX,lefengchuangxiang.com
   - DOMAIN-SUFFIX,leffercode.com
+  - DOMAIN-SUFFIX,lefile.cn
   - DOMAIN-SUFFIX,lefit.cn
   - DOMAIN-SUFFIX,lefit.co
   - DOMAIN-SUFFIX,lefit.com
@@ -76201,6 +76203,7 @@ payload:
   - DOMAIN-SUFFIX,lenovodata.com
   - DOMAIN-SUFFIX,lenovoeservice.com
   - DOMAIN-SUFFIX,lenovofile.com
+  - DOMAIN-SUFFIX,lenovofoundation.cn
   - DOMAIN-SUFFIX,lenovofuturecenter.com
   - DOMAIN-SUFFIX,lenovogame.com
   - DOMAIN-SUFFIX,lenovohci.com
@@ -95799,6 +95802,7 @@ payload:
   - DOMAIN-SUFFIX,qpkaifa.com
   - DOMAIN-SUFFIX,qplus.com
   - DOMAIN-SUFFIX,qplusstatic.com
+  - DOMAIN-SUFFIX,qpmcn.com
   - DOMAIN-SUFFIX,qpmwg68cre9pci.com
   - DOMAIN-SUFFIX,qpoc.com
   - DOMAIN-SUFFIX,qpoxvkiai.com
@@ -136444,6 +136448,7 @@ payload:
   - DOMAIN-SUFFIX,yueye7.com
   - DOMAIN-SUFFIX,yueyear.com
   - DOMAIN-SUFFIX,yueyitingxin.com
+  - DOMAIN-SUFFIX,yueyouqu.com
   - DOMAIN-SUFFIX,yueyouxs.com
   - DOMAIN-SUFFIX,yueyu114.com
   - DOMAIN-SUFFIX,yueyuanzhiye.com
@@ -142333,6 +142338,7 @@ payload:
   - DOMAIN-SUFFIX,znhospital.com
   - DOMAIN-SUFFIX,znhr.com
   - DOMAIN-SUFFIX,znhwhw.com
+  - DOMAIN-SUFFIX,znigddzwz.cc
   - DOMAIN-SUFFIX,znjchina.com
   - DOMAIN-SUFFIX,znjj.tv
   - DOMAIN-SUFFIX,znjs.com
@@ -155236,12 +155242,14 @@ payload:
   - IP-CIDR6,2a06:de02:4d2::/48,no-resolve
   - IP-CIDR6,2a06:de02:565::/48,no-resolve
   - IP-CIDR6,2a06:de02:5a7::/48,no-resolve
+  - IP-CIDR6,2a06:de02:5b3::/48,no-resolve
   - IP-CIDR6,2a06:de02:5f7::/48,no-resolve
   - IP-CIDR6,2a06:de02:604::/48,no-resolve
   - IP-CIDR6,2a06:de02:606::/48,no-resolve
   - IP-CIDR6,2a06:de02:613::/48,no-resolve
   - IP-CIDR6,2a06:de02:619::/48,no-resolve
   - IP-CIDR6,2a06:de02:61f::/48,no-resolve
+  - IP-CIDR6,2a06:de02:623::/48,no-resolve
   - IP-CIDR6,2a06:de02:625::/48,no-resolve
   - IP-CIDR6,2a06:de02:631::/48,no-resolve
   - IP-CIDR6,2a06:de02:637::/48,no-resolve
@@ -155249,7 +155257,7 @@ payload:
   - IP-CIDR6,2a06:de02:63d::/48,no-resolve
   - IP-CIDR6,2a06:de02:643::/48,no-resolve
   - IP-CIDR6,2a06:de02:647::/48,no-resolve
-  - IP-CIDR6,2a06:de02:648::/48,no-resolve
+  - IP-CIDR6,2a06:de02:648::/47,no-resolve
   - IP-CIDR6,2a06:de02:650::/48,no-resolve
   - IP-CIDR6,2a06:de02:655::/48,no-resolve
   - IP-CIDR6,2a06:de02:65a::/48,no-resolve
@@ -155262,7 +155270,7 @@ payload:
   - IP-CIDR6,2a06:de02:673::/48,no-resolve
   - IP-CIDR6,2a06:de02:676::/48,no-resolve
   - IP-CIDR6,2a06:de02:67a::/48,no-resolve
-  - IP-CIDR6,2a06:de02:70a::/48,no-resolve
+  - IP-CIDR6,2a06:de02:70a::/47,no-resolve
   - IP-CIDR6,2a06:de02:783::/48,no-resolve
   - IP-CIDR6,2a06:de02:78d::/48,no-resolve
   - IP-CIDR6,2a06:de02:794::/47,no-resolve
@@ -155275,7 +155283,7 @@ payload:
   - IP-CIDR6,2a06:de02:7ae::/48,no-resolve
   - IP-CIDR6,2a06:de02:7b0::/47,no-resolve
   - IP-CIDR6,2a06:de02:7bc::/48,no-resolve
-  - IP-CIDR6,2a06:de02:7be::/48,no-resolve
+  - IP-CIDR6,2a06:de02:7be::/47,no-resolve
   - IP-CIDR6,2a06:de07:f800::/38,no-resolve
   - IP-CIDR6,2a06:e881:3800::/44,no-resolve
   - IP-CIDR6,2a07:54c1:2200::/40,no-resolve
@@ -156530,7 +156538,7 @@ payload:
   - IP-CIDR6,2a0d:2581:1200::/40,no-resolve
   - IP-CIDR6,2a0d:2581:1400::/40,no-resolve
   - IP-CIDR6,2a0d:2581:fffc::/48,no-resolve
-  - IP-CIDR6,2a0d:2581:ffff::/48,no-resolve
+  - IP-CIDR6,2a0d:2581:fffe::/47,no-resolve
   - IP-CIDR6,2a0d:2587:3501::/48,no-resolve
   - IP-CIDR6,2a0d:2587:3502::/48,no-resolve
   - IP-CIDR6,2a0d:2681::/32,no-resolve
@@ -156699,8 +156707,7 @@ payload:
   - IP-CIDR6,2a0f:1cc5:1ff0::/48,no-resolve
   - IP-CIDR6,2a0f:1cc5:2000::/40,no-resolve
   - IP-CIDR6,2a0f:1cc5:2550::/48,no-resolve
-  - IP-CIDR6,2a0f:1cc5:2600::/41,no-resolve
-  - IP-CIDR6,2a0f:1cc5:2680::/42,no-resolve
+  - IP-CIDR6,2a0f:1cc5:2600::/40,no-resolve
   - IP-CIDR6,2a0f:1cc5:2810::/44,no-resolve
   - IP-CIDR6,2a0f:1cc5:3203::/48,no-resolve
   - IP-CIDR6,2a0f:1cc5:3210::/44,no-resolve
