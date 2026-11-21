@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-21
+# UPDATED: 2026-11-22
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -1819,6 +1819,7 @@ routing = 1
 2, 125180.com
 2, 12530.com
 2, 12533.com
+2, 1254225.com
 2, 1256789.xyz
 2, 12580.com
 2, 12580.tv
@@ -1897,6 +1898,7 @@ routing = 1
 2, 1330.net
 2, 1332vp.com
 2, 133300.com
+2, 1335273.com
 2, 1337.cn
 2, 13377608388.com
 2, 1337code.cn
@@ -4260,6 +4262,7 @@ routing = 1
 2, 345huishou.com
 2, 345idc.com
 2, 345what.com
+2, 34619481.com
 2, 3464.com
 2, 346888.com
 2, 346g4247o9.world
@@ -4723,6 +4726,7 @@ routing = 1
 2, 36dianping.cn
 2, 36dianping.com
 2, 36dj.com
+2, 36dm.club
 2, 36dong.com
 2, 36hd.cn
 2, 36hjob.com
@@ -5782,6 +5786,7 @@ routing = 1
 2, 4xiaoshuo.info
 2, 4xiaoshuo.org
 2, 4xseo.com
+2, 4xvr.net
 2, 4xx.me
 2, 4y4.net
 2, 4ye.cc
@@ -15562,6 +15567,7 @@ routing = 1
 2, arcticray.com
 2, arctiler.com
 2, arctime.org
+2, arctime.pro
 2, ard-china.com
 2, ardsec.com
 2, areader.com
@@ -16652,6 +16658,7 @@ routing = 1
 2, azp315.com
 2, azpdl.com
 2, azpdl.net
+2, azpromotion.com
 2, azqogkxtp.com
 2, azrumcpr.com
 2, azt365.com
@@ -23356,6 +23363,7 @@ routing = 1
 2, cby.me
 2, cbzr.com
 2, cc-airshow.com
+2, cc-gateway.com
 2, cc-honor.com
 2, cc-image.com
 2, cc-pay.cn
@@ -24292,6 +24300,7 @@ routing = 1
 2, cdqsng.com
 2, cdqss.com
 2, cdqszz.com
+2, cdqyjh.top
 2, cdqz.net
 2, cdrbs.net
 2, cdrcb.com
@@ -24833,6 +24842,7 @@ routing = 1
 2, cfxyfsyy.com
 2, cfyear.com
 2, cfyedu.com
+2, cfysoft.cc
 2, cfyy.cc
 2, cfyygf.com
 2, cfyzs.com
@@ -33200,6 +33210,7 @@ routing = 1
 2, czsmk.com
 2, czsrc.com
 2, czsrmyy.com
+2, czssdgz.com
 2, czsshb.com
 2, czstx.net
 2, czsvip.com
@@ -39392,6 +39403,7 @@ routing = 1
 2, echo.tech
 2, echo188.com
 2, echoing.tech
+2, echooai.com
 2, echoteen.com
 2, echovelle.com
 2, echu-cable.com
@@ -42510,6 +42522,7 @@ routing = 1
 2, fazhi.law
 2, fazhi12368.com
 2, fazhijx.com
+2, fazhipro.com
 2, fazz.fun
 2, fb32dc52302e6b9b.com
 2, fb46cd5483f029aa.com
@@ -55749,6 +55762,7 @@ routing = 1
 2, heicha.com
 2, heicheng51.com
 2, heidiankeji.com
+2, heifeichixu.com
 2, heightindustry.com
 2, heiguang.com
 2, heiguang.net
@@ -57986,6 +58000,7 @@ routing = 1
 2, hnzzms.com
 2, hnzzrc.com
 2, ho7bb.com
+2, ho9.cc
 2, hoaihe.store
 2, hoair.cn
 2, hoatia.com
@@ -64496,6 +64511,7 @@ routing = 1
 2, inzotek.com
 2, ioa365.com
 2, ioage.com
+2, ioapk.com
 2, ioasaas.com
 2, iocdn.cc
 2, iocrest.com
@@ -86874,27 +86890,6 @@ routing = 1
 2, ngaa.info
 2, ngaa.shop
 2, ngaa.top
-2, ngaacdn.com
-2, ngaacdn.net
-2, ngaagslb.com
-2, ngaagslb.net
-2, ngabbs.com
-2, ngacn.cc
-2, ngarihealth.com
-2, ngc-marine.com
-2, ngcgears.com
-2, ngctransmission.com
-2, ngcz.tv
-2, ngd-fund.com
-2, ngdns.cn
-2, ngeam.top
-2, ngedu.net
-2, ngep1.top
-2, ngfcyy.com
-2, ngfsa.top
-2, ngh6.com
-2, nghmesc.com
-2, ngi.cn
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -98208,6 +98203,8 @@ routing = 1
 1, 2a06:de02:584::/48
 1, 2a06:de02:5a7::/48
 1, 2a06:de02:5b3::/48
+1, 2a06:de02:5b8::/48
+1, 2a06:de02:5bb::/48
 1, 2a06:de02:5f7::/48
 1, 2a06:de02:604::/48
 1, 2a06:de02:606::/48
@@ -98221,6 +98218,7 @@ routing = 1
 1, 2a06:de02:637::/48
 1, 2a06:de02:639::/48
 1, 2a06:de02:63d::/48
+1, 2a06:de02:63f::/48
 1, 2a06:de02:640::/48
 1, 2a06:de02:643::/48
 1, 2a06:de02:647::/48
@@ -98239,6 +98237,7 @@ routing = 1
 1, 2a06:de02:67a::/48
 1, 2a06:de02:70a::/47
 1, 2a06:de02:718::/48
+1, 2a06:de02:727::/48
 1, 2a06:de02:783::/48
 1, 2a06:de02:785::/48
 1, 2a06:de02:78d::/48
@@ -99353,7 +99352,7 @@ routing = 1
 1, 2a0a:6040:f00::/48
 1, 2a0a:6040:f02::/48
 1, 2a0a:6040:f04::/48
-1, 2a0a:6040:f0a::/48
+1, 2a0a:6040:f0a::/47
 1, 2a0a:6040:f11::/48
 1, 2a0a:6040:f12::/47
 1, 2a0a:6040:f14::/46
@@ -99668,6 +99667,7 @@ routing = 1
 1, 2a0f:1cc5:1c20::/48
 1, 2a0f:1cc5:1f00::/48
 1, 2a0f:1cc5:1f04::/48
+1, 2a0f:1cc5:1f0b::/48
 1, 2a0f:1cc5:1f14::/48
 1, 2a0f:1cc5:1f90::/44
 1, 2a0f:1cc5:1fa0::/43
