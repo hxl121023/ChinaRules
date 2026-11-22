@@ -1,12 +1,12 @@
 # NAME: MY🐲Direct
 # AUTHOR: hxl121023
 # REPO: https://github.com/hxl121023/ChinaRules
-# UPDATED: 2026-11-22
+# UPDATED: 2026-11-23
 # DOMAIN-SUFFIX: 143948
 # IP-CIDR: 8442
-# IP-CIDR6: 4676
+# IP-CIDR6: 4679
 # DOMAIN-KEYWORD: 1
-# TOTAL: 157067
+# TOTAL: 157070
 payload:
   - DOMAIN-KEYWORD,381209
   - DOMAIN-SUFFIX,0.zone
@@ -149448,7 +149448,7 @@ payload:
   - IP-CIDR,165.156.30.0/24,no-resolve
   - IP-CIDR,165.173.128.0/23,no-resolve
   - IP-CIDR,165.173.174.0/23,no-resolve
-  - IP-CIDR,165.173.176.0/24,no-resolve
+  - IP-CIDR,165.173.176.0/23,no-resolve
   - IP-CIDR,165.173.179.0/24,no-resolve
   - IP-CIDR,165.173.180.0/22,no-resolve
   - IP-CIDR,165.225.254.104/31,no-resolve
@@ -155269,6 +155269,7 @@ payload:
   - IP-CIDR6,2a06:de02:565::/48,no-resolve
   - IP-CIDR6,2a06:de02:584::/48,no-resolve
   - IP-CIDR6,2a06:de02:5a7::/48,no-resolve
+  - IP-CIDR6,2a06:de02:5a9::/48,no-resolve
   - IP-CIDR6,2a06:de02:5b3::/48,no-resolve
   - IP-CIDR6,2a06:de02:5b8::/48,no-resolve
   - IP-CIDR6,2a06:de02:5bb::/48,no-resolve
@@ -155278,6 +155279,7 @@ payload:
   - IP-CIDR6,2a06:de02:610::/48,no-resolve
   - IP-CIDR6,2a06:de02:613::/48,no-resolve
   - IP-CIDR6,2a06:de02:619::/48,no-resolve
+  - IP-CIDR6,2a06:de02:61d::/48,no-resolve
   - IP-CIDR6,2a06:de02:61f::/48,no-resolve
   - IP-CIDR6,2a06:de02:623::/48,no-resolve
   - IP-CIDR6,2a06:de02:625::/48,no-resolve
@@ -155305,6 +155307,7 @@ payload:
   - IP-CIDR6,2a06:de02:70a::/47,no-resolve
   - IP-CIDR6,2a06:de02:718::/48,no-resolve
   - IP-CIDR6,2a06:de02:727::/48,no-resolve
+  - IP-CIDR6,2a06:de02:732::/48,no-resolve
   - IP-CIDR6,2a06:de02:783::/48,no-resolve
   - IP-CIDR6,2a06:de02:785::/48,no-resolve
   - IP-CIDR6,2a06:de02:78d::/48,no-resolve
@@ -156761,7 +156764,7 @@ payload:
   - IP-CIDR6,2a0f:1cc5:45ff::/48,no-resolve
   - IP-CIDR6,2a0f:1cc5:4600::/39,no-resolve
   - IP-CIDR6,2a0f:1cc5:49f0::/48,no-resolve
-  - IP-CIDR6,2a0f:1cc5:57fb::/48,no-resolve
+  - IP-CIDR6,2a0f:1cc5:57fa::/47,no-resolve
   - IP-CIDR6,2a0f:1cc5:57fc::/47,no-resolve
   - IP-CIDR6,2a0f:1cc5:57ff::/48,no-resolve
   - IP-CIDR6,2a0f:1cc5:5801::/48,no-resolve
