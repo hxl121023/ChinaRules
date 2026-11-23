@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-23
+# UPDATED: 2026-11-24
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -8512,6 +8512,7 @@ routing = 1
 2, 6yxk.com
 2, 6yxs.com
 2, 6yyy7.com
+2, 6z2h1lycfw.cc
 2, 6z6z.com
 2, 6za0l6fjl0.com
 2, 6ze.net
@@ -8589,6 +8590,7 @@ routing = 1
 2, 717c.com
 2, 717down.com
 2, 7181.com
+2, 7189099.com
 2, 71908.com
 2, 7192.com
 2, 719400.com
@@ -12723,6 +12725,7 @@ routing = 1
 2, aiboce.com
 2, aiboco.com
 2, aibookba.com
+2, aibox.eu.org
 2, aibrandy.com
 2, aibreeno.com
 2, aibrm.com
@@ -43277,6 +43280,7 @@ routing = 1
 2, fevermi.com
 2, feview.com
 2, fevte.com
+2, fexsqz.com
 2, feydj.com
 2, feyer-tc.com
 2, ff14.cloud
@@ -49719,6 +49723,7 @@ routing = 1
 2, gslbdns.net
 2, gslmw.net
 2, gslnrcw.com
+2, gslock.com
 2, gslzrcw.com
 2, gsmartedu.cn
 2, gsmpers.com
@@ -67059,6 +67064,7 @@ routing = 1
 2, jiangyan.tv
 2, jiangyu.org
 2, jiangyunkeji.com
+2, jiangyuxj.com
 2, jiangzheba.com
 2, jiangzhu.online
 2, jiangzidushu.com
@@ -67218,6 +67224,7 @@ routing = 1
 2, jiaohezhen.com
 2, jiaohuilian.com
 2, jiaohuiyun.com
+2, jiaohukejian.com
 2, jiaohusheji.net
 2, jiaojiang.com
 2, jiaokaitech.com
@@ -79138,6 +79145,7 @@ routing = 1
 2, luhuiwl.com
 2, lujiaming.com
 2, lujiandairy.com
+2, lujiangct.top
 2, lujianxin.com
 2, lujiazuiforum.org
 2, lujingtao.com
@@ -83223,6 +83231,7 @@ routing = 1
 2, misiai.com
 2, misintlschool.com
 2, miso-lab.com
+2, misoso.cc
 2, mispos.cc
 2, misracode.com
 2, misrm.cn
@@ -86871,22 +86880,6 @@ routing = 1
 2, nfschina.com
 2, nfsyx.com
 2, nft-kylin.com
-2, nftrr.com
-2, nfvalve.com
-2, nfwl168.com
-2, nfxsy.com
-2, nfyun.vip
-2, nfyy.com
-2, nfyyzcfy.com
-2, nfzhouyi.com
-2, nfzm-brand.com
-2, nfzmy.com
-2, nfzzh.com
-2, ng-alain.com
-2, ng021.com
-2, ng3571.com
-2, nga.cn
-2, nga.wiki
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -96311,6 +96304,7 @@ routing = 1
 1, 2402:8260::/32
 1, 2402:8300::/32
 1, 2402:8380::/32
+1, 2402:8420::/32
 1, 2402:85c0::/32
 1, 2402:8800::/32
 1, 2402:8840::/32
@@ -98198,6 +98192,7 @@ routing = 1
 1, 2a06:de02:4d2::/48
 1, 2a06:de02:565::/48
 1, 2a06:de02:584::/48
+1, 2a06:de02:58c::/48
 1, 2a06:de02:5a7::/48
 1, 2a06:de02:5a9::/48
 1, 2a06:de02:5b3::/48
@@ -98214,6 +98209,7 @@ routing = 1
 1, 2a06:de02:623::/48
 1, 2a06:de02:625::/48
 1, 2a06:de02:631::/48
+1, 2a06:de02:635::/48
 1, 2a06:de02:637::/48
 1, 2a06:de02:639::/48
 1, 2a06:de02:63d::/48
@@ -98233,13 +98229,16 @@ routing = 1
 1, 2a06:de02:66f::/48
 1, 2a06:de02:673::/48
 1, 2a06:de02:676::/48
+1, 2a06:de02:679::/48
 1, 2a06:de02:67a::/48
+1, 2a06:de02:701::/48
 1, 2a06:de02:70a::/47
 1, 2a06:de02:718::/48
 1, 2a06:de02:727::/48
 1, 2a06:de02:732::/48
 1, 2a06:de02:783::/48
 1, 2a06:de02:785::/48
+1, 2a06:de02:78a::/48
 1, 2a06:de02:78d::/48
 1, 2a06:de02:794::/47
 1, 2a06:de02:799::/48
@@ -99819,10 +99818,11 @@ routing = 1
 1, 2a12:bec0:1a0::/44
 1, 2a12:cb41::/44
 1, 2a12:cb41:200::/48
+1, 2a12:cb41:1200::/44
 1, 2a12:cb41:1300::/44
 1, 2a12:cb41:13f0::/44
 1, 2a12:cb46:6000::/38
-1, 2a12:cb46:6400::/44
+1, 2a12:cb46:6400::/43
 1, 2a12:cb46:6fff::/48
 1, 2a12:cb47:ffff::/48
 1, 2a12:dd47:db2c::/48
