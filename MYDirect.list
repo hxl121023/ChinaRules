@@ -1,8 +1,8 @@
 # NAME: MY🐲Direct (Surge)
 # GENERATED-FOR: Surge RULE-SET
 # SOURCE: ChinaRules MYDirect.arrs + MYDirect2.arrs
-# UPDATED: 2026-11-26
-# RULES: 157114
+# UPDATED: 2026-11-27
+# RULES: 157122
 DOMAIN-KEYWORD,381209
 DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,00.net
@@ -93258,6 +93258,7 @@ DOMAIN-SUFFIX,pronax.tech
 DOMAIN-SUFFIX,pronetway.com
 DOMAIN-SUFFIX,proposalt.com
 DOMAIN-SUFFIX,propsad.com
+DOMAIN-SUFFIX,proqianwen.com
 DOMAIN-SUFFIX,proquest.com
 DOMAIN-SUFFIX,pros-view.com
 DOMAIN-SUFFIX,prositsole.com
@@ -118019,6 +118020,7 @@ DOMAIN-SUFFIX,upma.site
 DOMAIN-SUFFIX,upmgaoepw.com
 DOMAIN-SUFFIX,upmgtvcto.com
 DOMAIN-SUFFIX,upnono.com
+DOMAIN-SUFFIX,upoem1.com
 DOMAIN-SUFFIX,upowerchain.com
 DOMAIN-SUFFIX,upowerchain.xyz
 DOMAIN-SUFFIX,uppershop.hk
@@ -133080,6 +133082,7 @@ DOMAIN-SUFFIX,yh-test.com
 DOMAIN-SUFFIX,yh.cn
 DOMAIN-SUFFIX,yh0.com
 DOMAIN-SUFFIX,yh2000.com
+DOMAIN-SUFFIX,yh29798.com
 DOMAIN-SUFFIX,yh31.com
 DOMAIN-SUFFIX,yh598.com
 DOMAIN-SUFFIX,yh914.com
@@ -143400,6 +143403,7 @@ DOMAIN-SUFFIX,zxfw888.com
 DOMAIN-SUFFIX,zxfwgj.com
 DOMAIN-SUFFIX,zxgcloud.com
 DOMAIN-SUFFIX,zxgj56.com
+DOMAIN-SUFFIX,zxgjw.com
 DOMAIN-SUFFIX,zxgongshui.com
 DOMAIN-SUFFIX,zxgroup.com
 DOMAIN-SUFFIX,zxgstock.com
@@ -151207,6 +151211,7 @@ IP-CIDR,203.161.0.0/22,no-resolve
 IP-CIDR,203.161.180.0/24,no-resolve
 IP-CIDR,203.161.183.0/24,no-resolve
 IP-CIDR,203.161.192.0/19,no-resolve
+IP-CIDR,203.162.166.0/23,no-resolve
 IP-CIDR,203.162.235.41/32,no-resolve
 IP-CIDR,203.166.160.0/19,no-resolve
 IP-CIDR,203.167.28.0/22,no-resolve
@@ -155291,8 +155296,10 @@ IP-CIDR6,2a06:de02:565::/48,no-resolve
 IP-CIDR6,2a06:de02:584::/48,no-resolve
 IP-CIDR6,2a06:de02:586::/48,no-resolve
 IP-CIDR6,2a06:de02:58c::/48,no-resolve
+IP-CIDR6,2a06:de02:591::/48,no-resolve
 IP-CIDR6,2a06:de02:59a::/48,no-resolve
 IP-CIDR6,2a06:de02:59e::/48,no-resolve
+IP-CIDR6,2a06:de02:5a1::/48,no-resolve
 IP-CIDR6,2a06:de02:5a7::/48,no-resolve
 IP-CIDR6,2a06:de02:5a9::/48,no-resolve
 IP-CIDR6,2a06:de02:5b3::/48,no-resolve
@@ -155310,7 +155317,7 @@ IP-CIDR6,2a06:de02:61f::/48,no-resolve
 IP-CIDR6,2a06:de02:623::/48,no-resolve
 IP-CIDR6,2a06:de02:625::/48,no-resolve
 IP-CIDR6,2a06:de02:631::/48,no-resolve
-IP-CIDR6,2a06:de02:632::/48,no-resolve
+IP-CIDR6,2a06:de02:632::/47,no-resolve
 IP-CIDR6,2a06:de02:635::/48,no-resolve
 IP-CIDR6,2a06:de02:637::/48,no-resolve
 IP-CIDR6,2a06:de02:639::/48,no-resolve
@@ -155336,6 +155343,7 @@ IP-CIDR6,2a06:de02:679::/48,no-resolve
 IP-CIDR6,2a06:de02:67a::/48,no-resolve
 IP-CIDR6,2a06:de02:701::/48,no-resolve
 IP-CIDR6,2a06:de02:70a::/47,no-resolve
+IP-CIDR6,2a06:de02:712::/48,no-resolve
 IP-CIDR6,2a06:de02:718::/47,no-resolve
 IP-CIDR6,2a06:de02:71d::/48,no-resolve
 IP-CIDR6,2a06:de02:71f::/48,no-resolve
