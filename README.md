@@ -5,18 +5,18 @@
 
 ## Anywhere 版（.arrs）
 
-规则集名为 **MY🐲Direct**。全集共 **157143 条**（域名后缀 143983 + IPv4 段 8444 + IPv6 段 4715 + 自定义关键词 1 条）。
+规则集名为 **MY🐲Direct**。全集共 **157266 条**（域名后缀 144106 + IPv4 段 8444 + IPv6 段 4715 + 自定义关键词 1 条）。
 
 ⚠️ **Anywhere 官方规定单个规则集最多 100,000 条，超限整文件拒绝导入**，所以全集拆成两个文件，**两个都要订阅**，动作都是直连（routing = 1）：
 
 | 文件 | 条数 | 内容 |
 |---|---|---|
 | MYDirect.arrs | 99999 | 关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段 |
-| MYDirect2.arrs | 57144 | 其余域名后缀 |
+| MYDirect2.arrs | 57267 | 其余域名后缀 |
 
 ```
-https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect.arrs
-https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect2.arrs
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.arrs
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect2.arrs
 ```
 
 域名规则与 IP 规则可以混在同一个规则集里（官方文档示例即混排），拆分纯粹因为条数上限。
@@ -31,8 +31,8 @@ https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect2.arrs
 | MYBlock2.arrs | 89338 | 域名后缀后段 |
 
 ```
-https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYBlock.arrs
-https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYBlock2.arrs
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock.arrs
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYBlock2.arrs
 ```
 
 与直连集重叠的域名多为国内广告域名：在 Anywhere 的路由列表里把 MY🐲Block 两个集拖到 MY🐲Direct 上面，冲突时拦截优先。
@@ -42,21 +42,7 @@ https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYBlock2.arrs
 **MYDirect.yaml** —— 同一份规则的 Clash 格式，单文件全集（Clash 没有 10 万条上限）：
 
 ```
-https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect.yaml
-```
-
-## Surge 版（.list）
-
-**MYDirect.list** —— 同一份规则的 Surge RULE-SET 格式，单文件全集（Surge 6.0+ 没有条数上限），在配置 `[Rule]` 里引用：
-
-```
-RULE-SET,https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYDirect.list,DIRECT,no-resolve,update-interval=86400
-```
-
-**MYBlock.list** —— 拦截集的 Surge 版，同样单文件全集，引用行放直连集之前，冲突时拦截优先：
-
-```
-RULE-SET,https://cdn.jsdelivr.net/gh/hxl121023/ChinaRules@main/MYBlock.list,REJECT
+https://raw.githubusercontent.com/hxl121023/ChinaRules/main/MYDirect.yaml
 ```
 
 ## 数据来源
