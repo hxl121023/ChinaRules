@@ -1,12 +1,12 @@
 # NAME: MY🐲Direct
 # AUTHOR: hxl121023
 # REPO: https://github.com/hxl121023/ChinaRules
-# UPDATED: 2026-11-27
-# DOMAIN-SUFFIX: 143970
+# UPDATED: 2026-11-28
+# DOMAIN-SUFFIX: 143983
 # IP-CIDR: 8444
-# IP-CIDR6: 4707
+# IP-CIDR6: 4715
 # DOMAIN-KEYWORD: 1
-# TOTAL: 157122
+# TOTAL: 157143
 payload:
   - DOMAIN-KEYWORD,381209
   - DOMAIN-SUFFIX,0.zone
@@ -2008,6 +2008,7 @@ payload:
   - DOMAIN-SUFFIX,143614.xyz
   - DOMAIN-SUFFIX,14498.com
   - DOMAIN-SUFFIX,1451cn.com
+  - DOMAIN-SUFFIX,14590562.com
   - DOMAIN-SUFFIX,145cloud.com
   - DOMAIN-SUFFIX,146368.com
   - DOMAIN-SUFFIX,14776ac8e1022.beer
@@ -3640,6 +3641,7 @@ payload:
   - DOMAIN-SUFFIX,264400.com
   - DOMAIN-SUFFIX,264788.xyz
   - DOMAIN-SUFFIX,265.com
+  - DOMAIN-SUFFIX,26531313.com
   - DOMAIN-SUFFIX,26582.vip
   - DOMAIN-SUFFIX,26595.com
   - DOMAIN-SUFFIX,265g.com
@@ -5367,6 +5369,7 @@ payload:
   - DOMAIN-SUFFIX,4132c3c4011021.beer
   - DOMAIN-SUFFIX,413cd5ac210291.beer
   - DOMAIN-SUFFIX,413xkyd.com
+  - DOMAIN-SUFFIX,41563901.com
   - DOMAIN-SUFFIX,416548ebbf96c1b9.com
   - DOMAIN-SUFFIX,41739b0aa10301.beer
   - DOMAIN-SUFFIX,417628.org
@@ -7897,6 +7900,7 @@ payload:
   - DOMAIN-SUFFIX,60593.com
   - DOMAIN-SUFFIX,605dns.com
   - DOMAIN-SUFFIX,605zy.co
+  - DOMAIN-SUFFIX,60601826.com
   - DOMAIN-SUFFIX,60606161.com
   - DOMAIN-SUFFIX,60608787.com
   - DOMAIN-SUFFIX,60623.org
@@ -25629,6 +25633,7 @@ payload:
   - DOMAIN-SUFFIX,chenggnet.com
   - DOMAIN-SUFFIX,chenggongguiji.com
   - DOMAIN-SUFFIX,chenggua.com
+  - DOMAIN-SUFFIX,chengguo4.com
   - DOMAIN-SUFFIX,chengguodj.com
   - DOMAIN-SUFFIX,chenghai.cc
   - DOMAIN-SUFFIX,chenghen.com
@@ -34527,6 +34532,7 @@ payload:
   - DOMAIN-SUFFIX,dcc-occ.cn
   - DOMAIN-SUFFIX,dcc-occ.com
   - DOMAIN-SUFFIX,dcccji.com
+  - DOMAIN-SUFFIX,dccztux.com
   - DOMAIN-SUFFIX,dcdapp.com
   - DOMAIN-SUFFIX,dcdcrm.com
   - DOMAIN-SUFFIX,dcdkjx.com
@@ -43640,6 +43646,7 @@ payload:
   - DOMAIN-SUFFIX,fitgroup-fat.com
   - DOMAIN-SUFFIX,fitgroup.com
   - DOMAIN-SUFFIX,fitit100.com
+  - DOMAIN-SUFFIX,fitkingshop.com
   - DOMAIN-SUFFIX,fitment.cn
   - DOMAIN-SUFFIX,fitoneapp.com
   - DOMAIN-SUFFIX,fittentech.com
@@ -49966,6 +49973,7 @@ payload:
   - DOMAIN-SUFFIX,gtkj.tech
   - DOMAIN-SUFFIX,gtkt.cn
   - DOMAIN-SUFFIX,gtkt.com
+  - DOMAIN-SUFFIX,gtl-test.com
   - DOMAIN-SUFFIX,gtlggy.com
   - DOMAIN-SUFFIX,gtlrxt.com
   - DOMAIN-SUFFIX,gtm-a1b2.com
@@ -50484,6 +50492,7 @@ payload:
   - DOMAIN-SUFFIX,gulu001.com
   - DOMAIN-SUFFIX,guluai.com
   - DOMAIN-SUFFIX,guludao.com
+  - DOMAIN-SUFFIX,gulufenfa.com
   - DOMAIN-SUFFIX,gulugj.com
   - DOMAIN-SUFFIX,gululu.com
   - DOMAIN-SUFFIX,guluyou.com
@@ -62074,6 +62083,7 @@ payload:
   - DOMAIN-SUFFIX,iaddata.com
   - DOMAIN-SUFFIX,iadiae.com
   - DOMAIN-SUFFIX,iadlink.cn
+  - DOMAIN-SUFFIX,iadlioo.com
   - DOMAIN-SUFFIX,iadmob.com
   - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,iadtracker.com
@@ -114099,6 +114109,7 @@ payload:
   - DOMAIN-SUFFIX,tjfengfan.com
   - DOMAIN-SUFFIX,tjfer.com
   - DOMAIN-SUFFIX,tjflcpw.com
+  - DOMAIN-SUFFIX,tjfuxinjia.com
   - DOMAIN-SUFFIX,tjfxdx.com
   - DOMAIN-SUFFIX,tjfxhb.com
   - DOMAIN-SUFFIX,tjfytech.com
@@ -134375,6 +134386,7 @@ payload:
   - DOMAIN-SUFFIX,yjs-cdn9.com
   - DOMAIN-SUFFIX,yjscloud.com
   - DOMAIN-SUFFIX,yjsershi.com
+  - DOMAIN-SUFFIX,yjshai.com
   - DOMAIN-SUFFIX,yjsmodel.com
   - DOMAIN-SUFFIX,yjsops.com
   - DOMAIN-SUFFIX,yjsry.com
@@ -139953,6 +139965,7 @@ payload:
   - DOMAIN-SUFFIX,zhijieguo.com
   - DOMAIN-SUFFIX,zhijin.com
   - DOMAIN-SUFFIX,zhijinwang.com
+  - DOMAIN-SUFFIX,zhijiwenhua.xyz
   - DOMAIN-SUFFIX,zhijizhibi.com
   - DOMAIN-SUFFIX,zhikaiis.com
   - DOMAIN-SUFFIX,zhikao100.com
@@ -155021,6 +155034,7 @@ payload:
   - IP-CIDR6,2602:f92a:e000::/40,no-resolve
   - IP-CIDR6,2602:f93b:c00::/38,no-resolve
   - IP-CIDR6,2602:f9ba:a8::/48,no-resolve
+  - IP-CIDR6,2602:f9ba:10c::/48,no-resolve
   - IP-CIDR6,2602:f9f6:400::/47,no-resolve
   - IP-CIDR6,2602:f9f6:402::/48,no-resolve
   - IP-CIDR6,2602:f9f6:450::/48,no-resolve
@@ -155307,10 +155321,12 @@ payload:
   - IP-CIDR6,2a06:de02:5a1::/48,no-resolve
   - IP-CIDR6,2a06:de02:5a7::/48,no-resolve
   - IP-CIDR6,2a06:de02:5a9::/48,no-resolve
+  - IP-CIDR6,2a06:de02:5b1::/48,no-resolve
   - IP-CIDR6,2a06:de02:5b3::/48,no-resolve
   - IP-CIDR6,2a06:de02:5b8::/48,no-resolve
   - IP-CIDR6,2a06:de02:5bb::/48,no-resolve
   - IP-CIDR6,2a06:de02:5f7::/48,no-resolve
+  - IP-CIDR6,2a06:de02:600::/48,no-resolve
   - IP-CIDR6,2a06:de02:604::/48,no-resolve
   - IP-CIDR6,2a06:de02:606::/48,no-resolve
   - IP-CIDR6,2a06:de02:610::/48,no-resolve
@@ -155330,6 +155346,7 @@ payload:
   - IP-CIDR6,2a06:de02:63f::/48,no-resolve
   - IP-CIDR6,2a06:de02:640::/47,no-resolve
   - IP-CIDR6,2a06:de02:643::/48,no-resolve
+  - IP-CIDR6,2a06:de02:645::/48,no-resolve
   - IP-CIDR6,2a06:de02:647::/48,no-resolve
   - IP-CIDR6,2a06:de02:648::/47,no-resolve
   - IP-CIDR6,2a06:de02:650::/48,no-resolve
@@ -155348,6 +155365,7 @@ payload:
   - IP-CIDR6,2a06:de02:67a::/48,no-resolve
   - IP-CIDR6,2a06:de02:701::/48,no-resolve
   - IP-CIDR6,2a06:de02:70a::/47,no-resolve
+  - IP-CIDR6,2a06:de02:710::/48,no-resolve
   - IP-CIDR6,2a06:de02:712::/48,no-resolve
   - IP-CIDR6,2a06:de02:718::/47,no-resolve
   - IP-CIDR6,2a06:de02:71d::/48,no-resolve
@@ -155356,6 +155374,7 @@ payload:
   - IP-CIDR6,2a06:de02:732::/48,no-resolve
   - IP-CIDR6,2a06:de02:783::/48,no-resolve
   - IP-CIDR6,2a06:de02:785::/48,no-resolve
+  - IP-CIDR6,2a06:de02:788::/48,no-resolve
   - IP-CIDR6,2a06:de02:78a::/48,no-resolve
   - IP-CIDR6,2a06:de02:78d::/48,no-resolve
   - IP-CIDR6,2a06:de02:794::/47,no-resolve
@@ -157066,6 +157085,8 @@ payload:
   - IP-CIDR6,2a14:7580:d000::/37,no-resolve
   - IP-CIDR6,2a14:7580:d800::/39,no-resolve
   - IP-CIDR6,2a14:7580:df00::/40,no-resolve
+  - IP-CIDR6,2a14:7580:e100::/42,no-resolve
+  - IP-CIDR6,2a14:7580:e140::/44,no-resolve
   - IP-CIDR6,2a14:7580:fe00::/40,no-resolve
   - IP-CIDR6,2a14:7580:ff64::/48,no-resolve
   - IP-CIDR6,2a14:7580:ffe4::/48,no-resolve

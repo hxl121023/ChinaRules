@@ -2,7 +2,7 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国域名与 IP 合集（上）：关键词 + 域名后缀前段 + 全部 IPv4/IPv6 段，直连
 # RULES: 99999
-# UPDATED: 2026-11-27
+# UPDATED: 2026-11-28
 # NOTE: Anywhere 官方上限单集 100,000 条，全集拆 MY🐲Direct + MY🐲Direct 2 两订阅。
 
 name = MY🐲Direct
@@ -2009,6 +2009,7 @@ routing = 1
 2, 143614.xyz
 2, 14498.com
 2, 1451cn.com
+2, 14590562.com
 2, 145cloud.com
 2, 146368.com
 2, 14776ac8e1022.beer
@@ -3641,6 +3642,7 @@ routing = 1
 2, 264400.com
 2, 264788.xyz
 2, 265.com
+2, 26531313.com
 2, 26582.vip
 2, 26595.com
 2, 265g.com
@@ -5368,6 +5370,7 @@ routing = 1
 2, 4132c3c4011021.beer
 2, 413cd5ac210291.beer
 2, 413xkyd.com
+2, 41563901.com
 2, 416548ebbf96c1b9.com
 2, 41739b0aa10301.beer
 2, 417628.org
@@ -7898,6 +7901,7 @@ routing = 1
 2, 60593.com
 2, 605dns.com
 2, 605zy.co
+2, 60601826.com
 2, 60606161.com
 2, 60608787.com
 2, 60623.org
@@ -25630,6 +25634,7 @@ routing = 1
 2, chenggnet.com
 2, chenggongguiji.com
 2, chenggua.com
+2, chengguo4.com
 2, chengguodj.com
 2, chenghai.cc
 2, chenghen.com
@@ -34528,6 +34533,7 @@ routing = 1
 2, dcc-occ.cn
 2, dcc-occ.com
 2, dcccji.com
+2, dccztux.com
 2, dcdapp.com
 2, dcdcrm.com
 2, dcdkjx.com
@@ -43641,6 +43647,7 @@ routing = 1
 2, fitgroup-fat.com
 2, fitgroup.com
 2, fitit100.com
+2, fitkingshop.com
 2, fitment.cn
 2, fitoneapp.com
 2, fittentech.com
@@ -49967,6 +49974,7 @@ routing = 1
 2, gtkj.tech
 2, gtkt.cn
 2, gtkt.com
+2, gtl-test.com
 2, gtlggy.com
 2, gtlrxt.com
 2, gtm-a1b2.com
@@ -50485,6 +50493,7 @@ routing = 1
 2, gulu001.com
 2, guluai.com
 2, guludao.com
+2, gulufenfa.com
 2, gulugj.com
 2, gululu.com
 2, guluyou.com
@@ -62075,6 +62084,7 @@ routing = 1
 2, iaddata.com
 2, iadiae.com
 2, iadlink.cn
+2, iadlioo.com
 2, iadmob.com
 2, iadsdk.apple.com
 2, iadtracker.com
@@ -86839,24 +86849,6 @@ routing = 1
 2, nexuc.com
 2, nexunwang.cn
 2, nexus-holding.com
-2, nexusedgeio.com
-2, nexushd.org
-2, neyetwatcher.com
-2, nezhadesk.cn
-2, nezhu.com
-2, nezhuawang.cn
-2, nezongwang.cn
-2, nezuowang.cn
-2, nf-ref.com
-2, nf.video
-2, nf108.com
-2, nf56.com
-2, nfbdc154.org
-2, nfbkc.top
-2, nfc315.com
-2, nfcic.com
-2, nfcmag.com
-2, nfcos.cn
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -97899,6 +97891,7 @@ routing = 1
 1, 2602:f92a:e000::/40
 1, 2602:f93b:c00::/38
 1, 2602:f9ba:a8::/48
+1, 2602:f9ba:10c::/48
 1, 2602:f9f6:400::/47
 1, 2602:f9f6:402::/48
 1, 2602:f9f6:450::/48
@@ -98185,10 +98178,12 @@ routing = 1
 1, 2a06:de02:5a1::/48
 1, 2a06:de02:5a7::/48
 1, 2a06:de02:5a9::/48
+1, 2a06:de02:5b1::/48
 1, 2a06:de02:5b3::/48
 1, 2a06:de02:5b8::/48
 1, 2a06:de02:5bb::/48
 1, 2a06:de02:5f7::/48
+1, 2a06:de02:600::/48
 1, 2a06:de02:604::/48
 1, 2a06:de02:606::/48
 1, 2a06:de02:610::/48
@@ -98208,6 +98203,7 @@ routing = 1
 1, 2a06:de02:63f::/48
 1, 2a06:de02:640::/47
 1, 2a06:de02:643::/48
+1, 2a06:de02:645::/48
 1, 2a06:de02:647::/48
 1, 2a06:de02:648::/47
 1, 2a06:de02:650::/48
@@ -98226,6 +98222,7 @@ routing = 1
 1, 2a06:de02:67a::/48
 1, 2a06:de02:701::/48
 1, 2a06:de02:70a::/47
+1, 2a06:de02:710::/48
 1, 2a06:de02:712::/48
 1, 2a06:de02:718::/47
 1, 2a06:de02:71d::/48
@@ -98234,6 +98231,7 @@ routing = 1
 1, 2a06:de02:732::/48
 1, 2a06:de02:783::/48
 1, 2a06:de02:785::/48
+1, 2a06:de02:788::/48
 1, 2a06:de02:78a::/48
 1, 2a06:de02:78d::/48
 1, 2a06:de02:794::/47
@@ -99944,6 +99942,8 @@ routing = 1
 1, 2a14:7580:d000::/37
 1, 2a14:7580:d800::/39
 1, 2a14:7580:df00::/40
+1, 2a14:7580:e100::/42
+1, 2a14:7580:e140::/44
 1, 2a14:7580:fe00::/40
 1, 2a14:7580:ff64::/48
 1, 2a14:7580:ffe4::/48
