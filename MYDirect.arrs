@@ -985,6 +985,7 @@ routing = 1
 2, 09451.com
 2, 094j35.com
 2, 095.xin
+2, 09517260.com
 2, 095196555.com
 2, 09527.xin
 2, 0952xh.com
@@ -9767,6 +9768,7 @@ routing = 1
 2, 8ddbf947e1020.beer
 2, 8dei.com
 2, 8dexpress.com
+2, 8dks.com
 2, 8dn.com
 2, 8dol.com
 2, 8dou.com
@@ -16776,6 +16778,7 @@ routing = 1
 2, b612kaji.com
 2, b6522.com
 2, b670bffdf1021.beer
+2, b675211.com
 2, b68f0a844eec7fff.com
 2, b6cc0921b1024.beer
 2, b6r.com
@@ -27913,6 +27916,7 @@ routing = 1
 2, cikelink.com
 2, cikexinli.com
 2, cilgroup.org
+2, cilikongjian.com
 2, cilin.org
 2, cilishenqi.cc
 2, cilisouou.com
@@ -42942,6 +42946,7 @@ routing = 1
 2, feinews.com
 2, feiniao.name
 2, feiniao360.com
+2, feiniaobt.com
 2, feiniaomy.com
 2, feiniaowangluo.com
 2, feiniu.com
@@ -45624,6 +45629,7 @@ routing = 1
 2, fzghy.com
 2, fzgolden.com
 2, fzhqzx.net
+2, fzhygame.com
 2, fzhzxh.com
 2, fzithome.com
 2, fzjdct.com
@@ -48792,6 +48798,7 @@ routing = 1
 2, gnway.cc
 2, gnway.com
 2, gnway.org
+2, gny.net
 2, gnzad.com
 2, go-admin.com
 2, go-behind.one
@@ -50978,6 +50985,7 @@ routing = 1
 2, gxar.com
 2, gxasjc.com
 2, gxasjn.com
+2, gxau.net
 2, gxawjmy.com
 2, gxaxjy.com
 2, gxaxpc.com
@@ -59542,6 +59550,7 @@ routing = 1
 2, huajiakeji.com
 2, huajialishe.com
 2, huajian-al.com
+2, huajian.ink
 2, huajiangai.com
 2, huajiankang.com
 2, huajianmed.com
@@ -71766,6 +71775,7 @@ routing = 1
 2, kaipuyun.cn
 2, kaipuyun.com
 2, kaipuyun.net
+2, kaiqi.xin
 2, kaiqiancq.com
 2, kaiqiu.cc
 2, kaiquan.com
@@ -86836,19 +86846,6 @@ routing = 1
 2, newskj.com
 2, newskj.org
 2, newskyunion.com
-2, newsletter-cn.com
-2, newsletter-nespresso.com
-2, newslqy.com
-2, newsmth.com
-2, newsmth.net
-2, newsmy-car.com
-2, newsmy.com
-2, newsmyshop.com
-2, newsn.net
-2, newspluse.com
-2, newsplusradio.cn
-2, newsradio.cn
-2, newsres.cn
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -97865,6 +97862,7 @@ routing = 1
 1, 2602:814:f006::/48
 1, 2602:f2dc:aa::/48
 1, 2602:f2dc:cb::/48
+1, 2602:f310:7000::/36
 1, 2602:f32a:30::/44
 1, 2602:f486:f0::/48
 1, 2602:f70d::/36
@@ -97872,9 +97870,7 @@ routing = 1
 1, 2602:f919:a00::/39
 1, 2602:f919:d00::/40
 1, 2602:f919:fee::/47
-1, 2602:f92a:1300::/46
-1, 2602:f92a:1305::/48
-1, 2602:f92a:1306::/48
+1, 2602:f92a:1300::/44
 1, 2602:f92a:1310::/48
 1, 2602:f92a:1312::/48
 1, 2602:f92a:1314::/48
@@ -98179,7 +98175,7 @@ routing = 1
 1, 2a06:de02:5a7::/48
 1, 2a06:de02:5a9::/48
 1, 2a06:de02:5b1::/48
-1, 2a06:de02:5b3::/48
+1, 2a06:de02:5b2::/47
 1, 2a06:de02:5b8::/48
 1, 2a06:de02:5bb::/48
 1, 2a06:de02:5f7::/48
@@ -98187,7 +98183,7 @@ routing = 1
 1, 2a06:de02:604::/48
 1, 2a06:de02:606::/48
 1, 2a06:de02:610::/48
-1, 2a06:de02:613::/48
+1, 2a06:de02:612::/47
 1, 2a06:de02:615::/48
 1, 2a06:de02:619::/48
 1, 2a06:de02:61d::/48
@@ -98207,10 +98203,11 @@ routing = 1
 1, 2a06:de02:647::/48
 1, 2a06:de02:648::/47
 1, 2a06:de02:650::/48
+1, 2a06:de02:653::/48
 1, 2a06:de02:655::/48
 1, 2a06:de02:65a::/48
 1, 2a06:de02:65c::/48
-1, 2a06:de02:660::/48
+1, 2a06:de02:660::/47
 1, 2a06:de02:662::/48
 1, 2a06:de02:664::/48
 1, 2a06:de02:66b::/48
@@ -98227,6 +98224,7 @@ routing = 1
 1, 2a06:de02:718::/47
 1, 2a06:de02:71d::/48
 1, 2a06:de02:71f::/48
+1, 2a06:de02:725::/48
 1, 2a06:de02:727::/48
 1, 2a06:de02:732::/48
 1, 2a06:de02:783::/48
@@ -98239,9 +98237,10 @@ routing = 1
 1, 2a06:de02:79b::/48
 1, 2a06:de02:79c::/48
 1, 2a06:de02:79f::/48
+1, 2a06:de02:7a3::/48
 1, 2a06:de02:7a4::/48
 1, 2a06:de02:7ab::/48
-1, 2a06:de02:7ae::/48
+1, 2a06:de02:7ae::/47
 1, 2a06:de02:7b0::/47
 1, 2a06:de02:7b7::/48
 1, 2a06:de02:7b9::/48
@@ -99816,6 +99815,7 @@ routing = 1
 1, 2a12:bec0:1a0::/44
 1, 2a12:cb41::/44
 1, 2a12:cb41:200::/48
+1, 2a12:cb41:c00::/40
 1, 2a12:cb41:1200::/44
 1, 2a12:cb41:1300::/44
 1, 2a12:cb41:13f0::/44
@@ -99943,7 +99943,7 @@ routing = 1
 1, 2a14:7580:d800::/39
 1, 2a14:7580:df00::/40
 1, 2a14:7580:e100::/42
-1, 2a14:7580:e140::/44
+1, 2a14:7580:e140::/43
 1, 2a14:7580:fe00::/40
 1, 2a14:7580:ff64::/48
 1, 2a14:7580:ffe4::/48
